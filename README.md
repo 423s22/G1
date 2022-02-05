@@ -1,2 +1,2 @@
 # G1
-Dissertation Validator
+Medical Transparency
