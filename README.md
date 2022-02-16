@@ -67,7 +67,7 @@ Product Backlog, Spring Backlog and Burnout Chart: https://docs.google.com/sprea
     Database: MongoDB
 
     obtain	the	source	code for latest Stable version (main Branch):
-    https://github.com/mroduin44/Medical-Transparency
+    https://github.com/423s22/G1/blob/main/
 
     Please email: mroduin44@gmail.com to be added as a collaborator.
 
