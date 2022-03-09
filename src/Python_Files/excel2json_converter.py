@@ -1,19 +1,34 @@
 import pandas
 import json
 
-#excel_data_df = pandas.read_excel('./machine_readable_files/Central-Montana-Medical-Center-Charge-Sheet.xlsx', sheet_name='237169043_central-montana-medic')
-#excel_data_df = pandas.read_excel('./machine_readable_files/CMS_Pricing_CCMSC_122321.xlsx', sheet_name='CMS_Pricing_CCMSC_Procedure')
-excel_data_df = pandas.read_excel('./machine_readable_files/St_Vincent_Healthcare.xlsx', sheet_name='St_Vincent_Healthcare')
+files = [
+    "Central_Montana_Medical_Center",
+    "Shodair_Childrens_Hospital",
+    "St_Vincent_Healthcare",
+    "Great_Falls_Clinic_Hospital",
+    "Holy_Rosary_Healthcare",
+    "St_Luke_Community_Hospital",
+    "Roundup_Memorial_Healthcare",
+    "Daniels_Memorial_Hospital",
+    "Granite_County_Medical_Center",
+    "Poplar_Community_Hospital",
+    "St_James_Healthcare",
+    "Livingston_Healthcare",
+    "Barrett_Hospital_and_Healthcare"
+]
 
-thisisjson = excel_data_df.to_json(orient='records')
+for item in files:
+    print("Scanning: ", item)
+    
+    excel_data_df = pandas.read_excel('./machine_readable_files/' + item + '.xlsx', sheet_name=item)
 
-#print('Excel Sheet to JSON:\n', thisisjson)
+    thisisjson = excel_data_df.to_json(orient='records')
 
-thisisjson_dict = json.loads(thisisjson)
 
-#with open('./json_files/Community_Medical_Center.json', 'w') as json_file:
-#with open('./json_files/Shodair_Children_Hospital.json', 'w') as json_file:
-with open('./json_files/St_Vincent_Healthcare2.json', 'w') as json_file:
-    json.dump(thisisjson_dict, json_file)
+    thisisjson_dict = json.loads(thisisjson)
 
-print("Completed")
+    with open('./json_files/' + item + '.json', 'w') as json_file:
+        json.dump(thisisjson_dict, json_file)
+
+    print("Completed")
+    print()
