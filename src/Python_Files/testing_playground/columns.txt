@@ -1,0 +1,27 @@
+Procedure Code
+Procedure Description
+Price Tier
+Revenue Code
+CPT HCPCS Code
+CPT HCPCS Desc
+NDC Code
+Rx Unit Multiplier
+Gross Charge
+Discounted Cash Price
+De-identified minimum negotiated charge
+De-identified maximum negotiated charge
+ALLEGIANCE
+ALLEGIANCE_RBPHP
+BCBSMT_CLOSED
+BCBSMT_HEALTHLINK
+BCBSMT_POS
+BCBSMT_TRADITIONAL
+COVENTRY
+EBMS
+HEALTH_INFONET
+INTERWEST_PPO
+INTERWEST_TRADITIONAL
+MONTANA_HEALTH_CO-OP
+PACIFIC_SOURCE
+UHC
+Hospital
