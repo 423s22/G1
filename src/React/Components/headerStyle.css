@@ -1,0 +1,57 @@
+.header{
+    margin: auto;
+    padding-bottom: 30px;
+    background-color: white;
+    height: 75px;
+    display: flex;
+}
+
+.mainIcon
+{
+    height: 100%;
+    width: 15%;
+    flex: left;
+    background-color: white;
+}
+
+.clickables{
+    height: 100%;
+    width: 60%;
+    flex: left;
+    overflow: hidden;
+    background-color: white;
+}
+
+ul.nav{
+    padding-left: 0;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Inter';
+}
+ul.nav > li {
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: white;
+    transition: 0.3s;
+}
+ul.nav >li:hover{
+    background-color:aqua; 
+}
+
+
+.searchBar
+{
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    flex: right;
+}
+
+.searchArea
+{
+    display: flex;
+    border: black 2px solid;
+    margin: 5%;
+    flex: left;
+    padding-left: 5px;
+}
