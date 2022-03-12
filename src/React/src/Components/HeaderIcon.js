@@ -1,4 +1,4 @@
-function HeaderIcon({ Icon, active, title }) {
+function HeaderIcon({ Icon, active }) {
   return (
     <div className=" flex items-center rounded-xl active:border-b-2 active:border-blue-500 group cursor-pointer md:px-10 sm:h-14 md:hover:bg-gray-100">
       <Icon
@@ -6,7 +6,6 @@ function HeaderIcon({ Icon, active, title }) {
           active && "text-blue-500"
         }`}
       />
-      <p className="whitespace-nowrap font-semibold p-3 indent-1">{title}</p>
     </div>
   );
 }
