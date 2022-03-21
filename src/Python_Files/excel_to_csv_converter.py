@@ -17,12 +17,14 @@ files = [
     "Barrett_Hospital_and_Healthcare"
 ]
 
-for item in files:
-    print("Scanning: ", item)
+for hospital in files:
+    print("Scanning: ", hospital)
     
-    excel_data_df = pandas.read_excel('./machine_readable_files/' + item + '.xlsx', sheet_name=item)
+    excel_data_df = pandas.read_excel('./machine_readable_files/' + hospital + '.xlsx', sheet_name=hospital)
 
-    thisisjson = excel_data_df.to_csv('./json_files/' + item + '.csv', index = False)
+    excel_data_df['name'] = hospital
+
+    thisisjson = excel_data_df.to_csv('./csv_files/' + hospital + '.csv', index = False)
 
 
     #thisisjson_dict = json.loads(thisisjson)

@@ -1,4 +1,4 @@
-Charge Master Code,Description,Invoice Label,Dynamic Pricing,Price,Soft Code,HCPCS Code,HCPCS Multiplier,Revenue Code,Effective Date,Expiration Date,Department,Fractional Billing,Minimum Price,Default Cost,Cost Multiplier,Charge Code Type,hospital
+Charge Master Code,Description,Invoice Label,Dynamic Pricing,Price,Soft Code,HCPCS Code,HCPCS Multiplier,Revenue Code,Effective Date,Expiration Date,Department,Fractional Billing,Minimum Price,Default Cost,Cost Multiplier,Charge Code Type,name
 1001,PNEUMONIA VACCINE ADMINISTRATION,PNEUMONIA VACCINE ADMINISTRATION,,24.0,,G0009,1.0,771,2017-06-06,,INPATIENT,,,,,Standard,Granite_County_Medical_Center
 1009,ADULT DAY CARE FULL DAY NO NIGHT,ADULT DAY CARE FULL DAY NO NIGHT,,174.4,,,1.0,3103,2017-06-06,,ADULT DAY CARE,,,,,Standard,Granite_County_Medical_Center
 2000,BLADDER CATHETER COMPLICATED,BLADDER CATHETER COMPLICATED,,246.3,,51703,1.0,761,2017-06-06,,EMERGENCY DEPARTMENT,,,,,Standard,Granite_County_Medical_Center
