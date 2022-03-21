@@ -1,0 +1,45 @@
+.overall-size{
+    height: 500px;
+    display: flex;
+}
+
+.name{
+    font-family: 'BebasNeue';
+    font-size: 50px;
+}
+
+.person-page-pic{
+    position: relative;
+    width: 35%;
+    background-color: white;
+    text-align: right;
+}
+
+.person-page-words{
+    width: 35%;
+    margin: 25px;
+    text-align: left;
+    background-color: white;
+}
+
+.person-page-contact{
+    width: 30%;
+    padding-left: 100px;
+    text-align: left;
+    background-color: white;
+    margin: auto;
+    
+
+
+}
+
+.line{
+    position: absolute;
+    width: 290px;
+    height: 0px;
+    left: 890px;
+    top: 350px;
+
+    border: 2px solid #000000;
+    transform: rotate(90deg);
+}

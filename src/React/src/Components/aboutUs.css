@@ -1,0 +1,12 @@
+.center{
+    margin-left: 10%;
+}
+
+.profile-style{
+    height:300px;
+    width: 30%;
+    background-color: blue;
+    border: 3px;
+    border-color: azure;
+
+}

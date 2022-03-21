@@ -1,0 +1,62 @@
+.home-page-content
+{
+    width: 100%;
+    background-color: white;
+}
+
+.hpc-side-column
+{
+    
+    width: 389px;
+    height: 694px;
+    left: 23px;
+    top: 145px;
+    padding-left: 80px;
+    background-color: #E5E5E5;
+}
+
+.hp-main-message{
+    text-align: left;
+    font-size: 80px;
+    width: 220px;
+    height: 624px;
+    left: 45px;
+    top: 246px;
+    font-family: 'BebasNeue';
+}
+
+.hpc-main-pic{
+    flex: right;
+    width: 1005px;
+    height: 694px;
+    /*width: 66.66666%;*/
+
+}
+
+.our-story{
+    margin:auto;
+    padding: 80px;
+    font-family: 'Inter';
+    font-size: 36px;
+    font-style: normal;
+    text-align: left;
+
+}
+
+.our-story-side-quote{
+    font-family: 'BebasNeue';
+    width: 65%;
+    font-size: 100px;
+    font-weight: bolder;
+    align-items: center;
+    padding: 100px;
+}
+
+.our-story-image{
+    width: 324px;
+    height: 420px;
+    
+
+    background-color: #E5E5E5;
+}
+
