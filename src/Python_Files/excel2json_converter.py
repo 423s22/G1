@@ -1,5 +1,5 @@
 import pandas
-import json
+#import json
 
 files = [
     "Central_Montana_Medical_Center",
@@ -22,13 +22,16 @@ for item in files:
     
     excel_data_df = pandas.read_excel('./machine_readable_files/' + item + '.xlsx', sheet_name=item)
 
-    thisisjson = excel_data_df.to_json(orient='records')
+    excel_data_df['hospital'] = item
 
+    thisisjson = excel_data_df.to_csv('./csv_files/' + item + '.csv', index = False)
 
-    thisisjson_dict = json.loads(thisisjson)
+    
 
-    with open('./json_files/' + item + '.json', 'w') as json_file:
-        json.dump(thisisjson_dict, json_file)
+    #thisisjson_dict = json.loads(thisisjson)
+
+    #with open('./json_files/' + item + '.csv', 'w') as json_file:
+    #    json.dump(thisisjson_dict, json_file)
 
     print("Completed")
     print()
