@@ -1,7 +1,11 @@
 import pandas
 import directory_scanner as scanner
 
-files = scanner.strip_path_and_ending(scanner.retrieve_files("./machine_readable_files/*.*"))
+acceptable_file_extensions = [".xlsx"]
+
+files = scanner.remove_invalid_file_types(scanner.retrieve_files("./machine_readable_files/*.*"), acceptable_file_extensions)
+
+files = scanner.strip_path_and_ending(files)
 
 for hospital in files:
     print("Scanning: ", hospital)
