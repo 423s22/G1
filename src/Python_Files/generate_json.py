@@ -1,6 +1,7 @@
 import directory_scanner as scanner
-import  converter
+import converter
 import json
+import directory_controller as directory
 
 def collect_scannable_files():
     acceptable_file_extensions = [".csv"]
@@ -20,6 +21,8 @@ for files in documents:
     thisisjson = data_frame.to_json(orient='records')
 
     thisisjson_dict = json.loads(thisisjson)
+
+    directory.generate_directory('json_files')
 
     with open('./json_files/' + hospital + '.json', 'w') as json_file:
         json.dump(thisisjson_dict, json_file, indent=4, sort_keys=True)

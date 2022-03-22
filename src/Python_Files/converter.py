@@ -1,4 +1,5 @@
 import pandas
+import directory_controller as directory
 
 def scan_document(hospital, path, extension):
     if extension == ".xlsx":
@@ -18,5 +19,6 @@ def scan_csv(hospital, path):
     return csv_data_df
 
 def output_to_csv(frame, hospital):
+    directory.generate_directory('csv_files')
     frame['hospital'] = hospital
     frame.to_csv('./csv_files/' + hospital + '.csv', index = False)
