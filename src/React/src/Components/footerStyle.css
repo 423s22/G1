@@ -1,6 +1,6 @@
 .footer{
     display: flex;
-    background-color: white;
+    background-color:#E5D9CD;
     font-style: italic;
     padding: 30px;
     justify-content: center;
@@ -24,10 +24,7 @@ ul.navBottom >li:hover{
 .break{
     position: absolute;
     width: 1300px;
-    height: 0px;
-
-
-
-    border: 2px solid #000000;
+    height: 1px;
+    border: 2px solid #FB8500;
 }
 

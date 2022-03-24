@@ -27,21 +27,19 @@ const Header = () => {
             <Link to="/AboutUs">The Team</Link>
           </li>
           <li>
-            <Link to="/ProductPage">Insurance</Link>
-          </li>
-          <li>
-            <Link to="/ProductPage">Your Location</Link>
+            <Link to="/ProductPage">Services</Link>
           </li>
           {/* <li>Insurance</li>
                     <li>Your Location</li> */}
         </ul>
       </div>
 
-      <div className="searchBar">
-        <div className="searchArea">
-          <img src={searchIcon} alt="Search Bar Icon" />
-        </div>
-      </div>
+        <img 
+        className="SearchArea"
+        src={searchIcon}
+         width={60}
+         height={60}
+         alt="Search Bar Icon" />
     </div>
   );
 };

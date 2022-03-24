@@ -11,7 +11,7 @@ import {
 
 function ProductPage(){
     return(
-        <div>
+        <div className='overallBackgroundColor'>
             <div className='productCat'>
                 <h1 className='name' style={{fontSize: '80px', textAlign: 'center'}}>RADIOLOGY</h1>
             </div>
