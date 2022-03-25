@@ -1,0 +1,27 @@
+.overall-size{
+    height: 500px;
+    display: flex;
+}
+
+.person-page-pic{
+    width: 35%;
+    background-color: greenyellow;
+    text-align: right;
+}
+
+.person-page-words{
+    width: 35%;
+    margin: 25px;
+    text-align: left;
+    background-color: salmon;
+}
+
+.person-page-contact{
+    width: 30%;
+    text-align: left;
+    background-color: yellow;
+    margin: auto;
+    
+
+
+}
