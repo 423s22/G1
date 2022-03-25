@@ -19,6 +19,6 @@ def scan_csv(hospital, path):
     return csv_data_df
 
 def output_to_csv(frame, hospital):
-    directory.generate_directory('data_files/csv_files')
+    directory.generate_directory('csv_files')
     frame['hospital'] = hospital
-    frame.to_csv('./data_files/csv_files/' + hospital + '.csv', index = False)
+    frame.to_csv('./csv_files/' + hospital + '.csv', index = False)

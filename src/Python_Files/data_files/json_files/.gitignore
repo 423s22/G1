@@ -1,2 +1,0 @@
-#File to prevent json files from being uploaded to github repo
-*.json
