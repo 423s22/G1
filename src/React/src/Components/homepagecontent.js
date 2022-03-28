@@ -30,26 +30,34 @@ function HomePageContent() {
               textAlign: "center",
             }}
           >
-            OUR STORY
+            User Doc
           </h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-            pharetra sollicitudin orem ac ultricies. Vestibulum eget mollis
-            dolor. Donec finibus mi et quam condimentum efficitur. Nam in
-            efficitur quam. Sed bibendum nunc odio, vitae iaculis nisl interdum
-            quis. Morbi sollicitudin molestie nulla non lobortis. Phasellus
-            suscipit consequat condimentum. Aliquam nibh tortor, molestie eu
-            eleifend in, feugiat scelerisque erat. Nam vulputate lectus in
-            tortor sollicitudin rhoncus. Etiam et sem eu ipsum ultrices ornare
-            quis sit amet risus. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Vivamus pharetra sollicitudin orem ac ultricies.
-            Vestibulum eget mollis dolor. Donec finibus mi et quam condimentum
-            efficitur. Nam in efficitur quam. Sed bibendum nunc odio, vitae
-            iaculis nisl interdum quis. Morbi sollicitudin molestie nulla non
-            lobortis. Phasellus suscipit consequat condimentum. Aliquam nibh
-            tortor, molestie eu eleifend in, feugiat scelerisque erat. Nam
-            vulputate lectus in tortor sollicitudin rhoncus. Etiam et sem eu
-            ipsum ultrices ornare quis sit amet risus.
+          General Use: Click the 3 links up top to navigate through the website’s page.The search bar does not work as of right now.
+          <br />
+          <br />
+          Homepage: The first page you see when you access our website. Give a general overview what we are about
+          <br />
+          <br />
+          The Team: Displays the members of the team that worked on website
+          Clicking on a picture will bring up that person’s profile
+          <br />
+          <br />
+          The Team(Specific Profile): Shows some background information for a distinct person
+          From left to right on the page we have, the person’s picture, quick bio, and contact information
+          <br />
+          <br />
+          Services: Shows the list of services that we have information on
+          List the name of specific services along with a basic description of each. 
+          Click on a specific service will bring up information on that service.
+          <br />
+          <br />
+          Services(Specific Service): provide information on selected service
+          Able to see the name of service and the universal code for it
+          Can see the medical facilities that offer the selected service
+          Can see the different prices of the service
+          Can see which locations accept insurance for said service.
+
           </p>
 
           <br />
