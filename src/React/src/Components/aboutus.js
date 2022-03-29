@@ -15,6 +15,7 @@ function AboutUs() {
           marginTop:0,
           fontFamily: "BebasNeue",
           fontSize: "100px",
+          color:"#234473",
           textAlign: "center",
         }}
       >

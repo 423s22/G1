@@ -1,13 +1,15 @@
 import React, { useState } from "react";
 import "./headerStyle.css";
-import HomePageContent from "../Components/homepagecontent";
-import AboutUs from "../Components/aboutus";
-import Footer from "../Components/footer";
 import medIcon from "../images/icon.png";
 import searchIcon from "../images/searchIcon.png";
+import ServiceMenu from "./servicemenu";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
+
+
+
 const Header = () => {
+  const [visibility, setVisibility] = useState(false);
   return (
     <div className="header">
       <div className="mainIcon">
@@ -27,8 +29,15 @@ const Header = () => {
             <Link to="/AboutUs">The Team</Link>
           </li>
           <li>
-            <Link to="/ProductPage">Services</Link>
-          </li>
+            <div>
+              {
+            visibility?<ServiceMenu/>:null
+          }
+          </div>
+          
+          <button onClick={() => setVisibility(!visibility)}>
+       Services</button>
+          </li> 
           {/* <li>Insurance</li>
                     <li>Your Location</li> */}
         </ul>

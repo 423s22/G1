@@ -1,6 +1,6 @@
 import React from 'react';
 import './productPageStyle.css'
-import ProductPageSpecific from '../Components/productpagespecific';
+import Footer from './footer';
 import {
     BrowserRouter,
     Routes,
@@ -112,6 +112,7 @@ function ProductPage(){
                     </p>
                 </div>
             </div>
+            <Footer/>
         </div>
     )
 }

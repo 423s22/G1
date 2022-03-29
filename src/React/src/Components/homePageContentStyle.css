@@ -23,6 +23,7 @@
     left: 45px;
     top: 246px;
     font-family: 'BebasNeue';
+    color: #234473;
 }
 
 .hpc-main-pic{
@@ -35,7 +36,7 @@
 
 .break{
     position: absolute;
-    width: 1300px;
+    width: 90%;
     height: 0px;
     border: 2px solid #FB8500;
 }
@@ -53,17 +54,17 @@
 .our-story-side-quote{
     font-family: 'BebasNeue';
     width: 65%;
-    font-size: 100px;
+    font-size: 75px;
     font-weight: bolder;
     align-items: center;
     padding: 100px;
+    color:#234473;
+    margin-top: -30px;
 }
 
 .our-story-image{
     width: 324px;
     height: 420px;
-    
-
     background-color: #E5D9CD;
 }
 
