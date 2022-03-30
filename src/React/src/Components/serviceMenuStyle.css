@@ -1,5 +1,26 @@
 .menuStyle{
-    height: 50px;
-    width: 50px;
-    background-color: aqua;
+    width: 15%;
+    background-color:#FB8500;
+    border-radius: 10px;
+    text-decoration: none;
+    display: block;
+    margin-left: 25%;
+    margin-top: -3%;
+
+}
+
+.SMinteraction{
+    text-size-adjust: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+.SMinteraction:hover{
+    color:#FB8500;
+    background-color: white;
+    border-spacing: 2px;
+}
+
+.wow{
+    z-index: 2;
 }

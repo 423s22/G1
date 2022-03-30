@@ -10,6 +10,8 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 const Header = () => {
   const [visibility, setVisibility] = useState(false);
+
+
   return (
     <div className="header">
       <div className="mainIcon">
@@ -20,27 +22,37 @@ const Header = () => {
         />
       </div>
 
+
       <div className="clickables">
         <ul className="nav">
           <li>
-            <Link to="/">Home</Link>
+            <Link className="interaction" to="/">Home</Link>
           </li>
           <li>
-            <Link to="/AboutUs">The Team</Link>
+            <Link className="interaction" to="/AboutUs">The Team</Link>
           </li>
           <li>
-            <div>
+            <button className="interaction" 
+            onClick={() => setVisibility(!visibility)}
+   
+            
+          
+            style={{
+              border:"none",
+              fontSize:"20px",
+              fontFamily:"inter",
+              backgroundColor:"#E5D9CD",
+              
+            }}>
+        Services</button>
+      
+          </li> 
+        </ul>
+         <div>
               {
             visibility?<ServiceMenu/>:null
           }
-          </div>
-          
-          <button onClick={() => setVisibility(!visibility)}>
-       Services</button>
-          </li> 
-          {/* <li>Insurance</li>
-                    <li>Your Location</li> */}
-        </ul>
+        </div>
       </div>
 
         <img 

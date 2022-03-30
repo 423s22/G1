@@ -21,23 +21,35 @@
 
 }
 
+.position{
+    display: inline-flex;
+}
+
+.interaction{
+    color: black;
+    display: inline-flex;
+    text-decoration: none;
+}
+
+.interaction:hover{
+    color: #F7A520;
+    text-decoration: underline;
+    transform: scale(1.5);
+    transition: .2s;
+}
 ul.nav{
     padding-left: 0;
     text-align: left;
     font-size: 20px;
     font-family: 'Inter';
+    color: aquamarine;
 }
 ul.nav > li {
     display: inline-block;
     padding: 15px 20px;
     transition: 0.3s;
 }
-ul.nav >li:hover{
-    color: #F7A520; 
-}
 
-
-.searchArea
-{
-
+.wow{
+    transition: .5s;
 }
