@@ -1,0 +1,1032 @@
+GARFIELD COUNTY HEALTH CENTER,Unnamed: 1,Unnamed: 2,Unnamed: 3,hospital
+DESCRIPTION,CPT,REV,PRICE,Garfield_County_Health_Center
+INCISION & DRAINAGE ABSCESS SIMPLE,10060,983,209,Garfield_County_Health_Center
+INCISION & DRAINAGE ABSCESS COMPLE,10061,983,275,Garfield_County_Health_Center
+INCISION & REMOVAL POREIGNBODY SIM,10120,983,175,Garfield_County_Health_Center
+INCISION & REMOVAL FOREIGNBODY COM,10121,983,325,Garfield_County_Health_Center
+PUNCTURE ASPIRATION OF ABSCESS,10160,983,185,Garfield_County_Health_Center
+DEBRIDEMENT OF INFECTED SKIN,11000,983,90,Garfield_County_Health_Center
+DEBRIDEMENT INFECTED SKIN (ADD10%),11001,983,35,Garfield_County_Health_Center
+BIOPSY OF SKIN  (SINGLE),11100,983,118,Garfield_County_Health_Center
+BIOPSY OF SKIN WITH SIMPLE CLOSURE,11100,983,175,Garfield_County_Health_Center
+BIOPSY OF SKIN (EACH ADDITIONAL),11101,983,68,Garfield_County_Health_Center
+SKIN TAG REMOVAL UP TO 15,11200,983,135,Garfield_County_Health_Center
+SHAVE LESION TRUNK/LIMB <0.5CM,11300,983,155,Garfield_County_Health_Center
+SHAVE LESION TRUNK/LIMBS 06-1CM,11301,983,190,Garfield_County_Health_Center
+SHAVE LESION TRUNK/LIMB  1.1-2CM,11302,983,225,Garfield_County_Health_Center
+SHAVE LESION TRUNK/LIMBS OVER 2CM,11303,983,250,Garfield_County_Health_Center
+SHAVE LESION NONFACIAL <0.5CM,11305,983,160,Garfield_County_Health_Center
+SHAVE LESION NONFACIAL .6-1CM,11306,983,190,Garfield_County_Health_Center
+SHAVE LESION NONFACIAL 1.1-2CM,11307,983,235,Garfield_County_Health_Center
+SHAVE LESION NONFACIAL OVER 2.0CM,11308,983,245,Garfield_County_Health_Center
+SHAVE LESION FACIAL <0.5CM,11310,983,180,Garfield_County_Health_Center
+SHAVE LESION FACIAL .6-1CM,11311,983,175,Garfield_County_Health_Center
+SHAVE LESION FACIAL 1.1-2CM,11312,983,250,Garfield_County_Health_Center
+SHAVE LESION FACIAL OVER 2.0CM,11313,983,300,Garfield_County_Health_Center
+E/O BENIGN LESION TRUNK/LIMB <.5CM,11400,983,167,Garfield_County_Health_Center
+E/O BENIGN LESION TRUNK/LIMB .6-1C,11401,983,205,Garfield_County_Health_Center
+E/O BENIGN LESION TRUNK/LIMB,11402,983,260,Garfield_County_Health_Center
+E/O BENIGN LESION TRUNK/LIMB 2.1-3,11403,983,310,Garfield_County_Health_Center
+E/O BENIGN LESION TRUNK/LIMB 3.1-4,11404,983,340,Garfield_County_Health_Center
+E/O BENIGN LESION TRUNK/LIMB >4CM,11406,983,402,Garfield_County_Health_Center
+E/O BENIGN LESION NONFAC 0-.5CM,11420,983,187,Garfield_County_Health_Center
+E/O BENIGN LESION NONFAC .6-1CM,11421,983,242,Garfield_County_Health_Center
+E/O BENIGN LESION NONFAC 1.1-2.0CM,11422,983,303,Garfield_County_Health_Center
+E/O BENIGN LESION NONFAC 2.1-3.0CM,11423,983,391,Garfield_County_Health_Center
+E/O BENIGN LESION FACIAL 0-.5CM,11440,983,242,Garfield_County_Health_Center
+E/O BENIGN LESION FACIAL .6-1CM,11441,983,310,Garfield_County_Health_Center
+E/O BENIGN LESION FACIAL 1.1-2CM,11442,983,366,Garfield_County_Health_Center
+E/O BENIGN LESION FACIAL 2.1-3CM,11443,983,427,Garfield_County_Health_Center
+E/O BENIGN LESION FACIAL 3.1-4CM,11444,983,526,Garfield_County_Health_Center
+E/O BENIGN LESION FACIAL OVER 4CM,11446,983,644,Garfield_County_Health_Center
+E/O MAL LESION TRUNK/LIMB <0.5CM,11600,983,242,Garfield_County_Health_Center
+E/O MAL LESION TRUNK/LIMB 0.6-1CM,11600,983,303,Garfield_County_Health_Center
+E/O MAL LESION TRUNK/LIMB 1.1-2CM,11602,983,340,Garfield_County_Health_Center
+E/O MAL LESION TRUNK/LIMB 2.1-3CM,11603,983,372,Garfield_County_Health_Center
+E/O MAL LESION TRUNK/LIMB 3.1-4CM,11604,983,416,Garfield_County_Health_Center
+E/O LESION TRUNK/LIMB >4.0 CM,11606,983,526,Garfield_County_Health_Center
+E/O MAL LESION NONFACIAL <1.5CM,11620,983,278,Garfield_County_Health_Center
+E/O MAL LESION NONFACIAL 0.6-1CM,11621,983,316,Garfield_County_Health_Center
+E/O MAL LESION NONFACIAL 1.1-2CM,11622,983,372,Garfield_County_Health_Center
+E/O MAL LESION NONFACIAL 2.1-3CM,11623,983,434,Garfield_County_Health_Center
+E/O MAL LESION NONFACIAL 3.1-4CM,11624,983,490,Garfield_County_Health_Center
+E/O MAL LESION NONFACIAL >4CM,11626,983,608,Garfield_County_Health_Center
+E/O MAL LESION FACIAL <0.5CM,11640,983,316,Garfield_County_Health_Center
+E/O MAL LESION FACIAL 1.1-2CM,11641,983,465,Garfield_County_Health_Center
+E/O MAL LESION FACIAL 0.6-1CM,11641,983,402,Garfield_County_Health_Center
+E/O MAL LESION FACIAL 2.1-3CM,11643,983,527,Garfield_County_Health_Center
+E/O MAL LESION FACIAL 3.1-4CM,11644,983,647,Garfield_County_Health_Center
+E/O MAL LESION FACIAL >4.0CM,11646,983,799,Garfield_County_Health_Center
+AVULSION OF NAIL PLATE SIMPLE,11730,983,183,Garfield_County_Health_Center
+EACH ADDITIONAL NAIL PLATE,11732,983,93,Garfield_County_Health_Center
+EVACUTATION OF SUBUNGAL HEMATOMA,11740,983,80,Garfield_County_Health_Center
+E/O NAIL PARTIAL OR COMPLETE,11750,983,295,Garfield_County_Health_Center
+EXCISION OF SKIN OF NAIL FOLD,11765,983,97,Garfield_County_Health_Center
+LAC SUPERF NONFACIAL < 2.5,12001,450,75,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL <2.5CM,12001,983,251,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 2.6 - 7.5,12002,450,65,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 2.6-7.5,12002,983,281,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 7.6 - 12.5 ,12004,450,81,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 7.6-12.5CM,12004,983,319,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 12.6 - 20.0,12005,450,106,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 12.6-20CM,12005,983,434,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 20.1 - 30 C,12006,450,129,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL 20.1-30CM,12006,983,524,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL OVER 30CM,12007,450,160,Garfield_County_Health_Center
+LAC SUPERFIC NONFACIAL OVER 30CM,12007,983,613,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL < 2.5,12011,450,62,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL <2.5CM,12011,983,279,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 2.6 - 5 CM,12013,450,65,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 2.6-5CM,12013,983,307,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 5.1 - 7.5 CM,12014,450,85,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 5.1-7.5CM,12014,983,353,Garfield_County_Health_Center
+LAC SUPER FACIAL 7.5 - 12.5 CM,12015,450,105,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 7.6-12.5CM,12015,983,416,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 12.6 - 20 CM,12016,450,142,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 12.6-20CM,12016,983,515,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 10.1 - 30 CM,12017,450,169,Garfield_County_Health_Center
+LAC SUPERFIC FACIAL 20.1-30CM,12017,983,638,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB <2.5CM,12031,983,291,Garfield_County_Health_Center
+LAC INTERMED TRUCK/LIMB 2.6 - 7.5 ,12032,450,201,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB 2.5 - 7.5,12032,450,250,Garfield_County_Health_Center
+LAC INTERMED TRUCK/LIMB,12032,983,353,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB,12034,983,397,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB 12.6 - 20.,12035,450,257,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB,12035,983,452,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB 20.1 - 30.,12036,450,303.35,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB,12036,983,559,Garfield_County_Health_Center
+LAC INTERMED TRUCK/LIMB  30 CM,12037,450,355,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB 30CM,12037,983,651,Garfield_County_Health_Center
+LAC INTERMED NONFACIAL <2.5CM,12041,983,328,Garfield_County_Health_Center
+LAC INTERMED NONFACIAL 2.6-7.5CM,12042,983,384,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB 7.6 - 12.5,12044,450,227,Garfield_County_Health_Center
+LAC INTERMED NONFACIAL 7.6-12.5CM,12044,983,440,Garfield_County_Health_Center
+LAC INTERMED NONFACIAL 12.6-20CM,12045,983,515,Garfield_County_Health_Center
+LAC INTERMED TRUNK/LIMB 20.1 - 30,12046,450,339,Garfield_County_Health_Center
+LAC INTERMED NONFACIAL 20.1-30CM,12046,983,740,Garfield_County_Health_Center
+LAC INTERMED NONFACIAL OVER 30CM,12047,983,862,Garfield_County_Health_Center
+LAC INTERMED TRUCK/LIMB 2.5 OR LES,12051,450,160.2,Garfield_County_Health_Center
+LAC INTMED FACIAL  < 2.5 CM,12051,450,179,Garfield_County_Health_Center
+LAC INTERMED FACIAL <2.5CM,12051,983,378,Garfield_County_Health_Center
+LAC INTERMED FACIAL 2.6 - 5.0 CM,12052,450,210.75,Garfield_County_Health_Center
+LAC INTERMED FACIAL 2.6-5.0CM,12052,983,394,Garfield_County_Health_Center
+LAC INTMED FACIAL 5.1 - 7.5 CM,12053,450,228.25,Garfield_County_Health_Center
+LAC INTERMED FACIAL 5.1-7.5CM,12053,983,440,Garfield_County_Health_Center
+LAC INTERMED FACIAL 7.6 - 12.5 CM,12054,450,235.1,Garfield_County_Health_Center
+LAC INTERMED FACIAL 7.6-12.5 CM,12054,983,484,Garfield_County_Health_Center
+LAC INTERMED FACIAL 12.6-20.0 CM,12055,450,321.2,Garfield_County_Health_Center
+LAC INTERMED FACIAL 12.6-20CM,12055,983,565,Garfield_County_Health_Center
+LAC INTERMED FACIAL 20.1 - 30 CM,12056,450,410.7,Garfield_County_Health_Center
+LAC INTERMED FACIAL 20.1-30CM,12056,983,653,Garfield_County_Health_Center
+BURN INITIAL TREATMENT 1ST DEGREE,16000,983,155,Garfield_County_Health_Center
+BURN DRESSING <5% TOTAL SURFACE,16020,983,155,Garfield_County_Health_Center
+BURN DRESSING 5-10%,16025,983,310,Garfield_County_Health_Center
+CRYO REMOVAL OF LESION 1ST LESION,17000,983,100,Garfield_County_Health_Center
+TRIGGER POINT INJECTION TENDON SHE,20551,983,99,Garfield_County_Health_Center
+TRIGGER POINT INJECTION,20552,983,118,Garfield_County_Health_Center
+ASPIRATION/INJECTION FO SMALL JOIN,20600,983,105,Garfield_County_Health_Center
+ASPIRATION/INJECTION OF INTMD JOIN,20605,983,118,Garfield_County_Health_Center
+ASPIRATION/INJECTION OF MAJOR JOIN,20610,983,150,Garfield_County_Health_Center
+ASPIRATION/INJECTION GAGLION-CYST,20612,983,130,Garfield_County_Health_Center
+FX TREATMENT NASAL BONE CLOSED,21315,983,362,Garfield_County_Health_Center
+FX TREATMENT CLAVICAL CLOSED,23500,983,375,Garfield_County_Health_Center
+DISLOCATION TX STERNOCLAVICULAR,23520,983,447,Garfield_County_Health_Center
+FX TREATMENT SCAPULA CLOSED,23570,983,449,Garfield_County_Health_Center
+FX TREATMENT PROXIMAL HUMERAL CLSD,23600,983,635,Garfield_County_Health_Center
+SHOULDER REDUCTION,23650,983,318,Garfield_County_Health_Center
+FX TREATMENT HUMERAL SHAFT CLOSED,24500,983,615,Garfield_County_Health_Center
+FX TREATMENT HUMERAL W/MANIP CLOSE,24535,983,1175,Garfield_County_Health_Center
+DISLOCATION TX ELBOW CLOSED,24600,983,550,Garfield_County_Health_Center
+FX TREATMENT RADIAL HEAD/NECK CLOS,24650,983,495,Garfield_County_Health_Center
+FX TREATMENT ULNAR PROXIMAL CLOSED,24670,983,520,Garfield_County_Health_Center
+FX TREATMENT RADIAL SHAFT CLOSED,25500,983,281,Garfield_County_Health_Center
+FX TREATMENT ULNAR SHAFT CLOSED,25530,983,465,Garfield_County_Health_Center
+FX TREATMENT RADIAL/ULNAR SHAFT CL,25560,983,495,Garfield_County_Health_Center
+FX TREATMENT DISTAL RADIAL CLOSED,25600,983,449,Garfield_County_Health_Center
+FX TREATMENT CARPAL SCAPHOID CLOSE,25622,983,524,Garfield_County_Health_Center
+FX TREATMENT OF ULNAR STYLOID,25650,983,449,Garfield_County_Health_Center
+FX TREATMENT MEDACARPAL CLOSED SIN,26600,983,325,Garfield_County_Health_Center
+FX TREATMENT PROXIMAL FINGER CLOSE,26720,983,349,Garfield_County_Health_Center
+FX TREATMENT DISTAL FINGER CLOSED,26750,983,394,Garfield_County_Health_Center
+DISLOCATION TX INTERPHALANGELA CLO,26770,983,576,Garfield_County_Health_Center
+FX TREATMENT TIBIAL SHAFT CLOSED,27750,983,655,Garfield_County_Health_Center
+FX TREATMENT MEDIAL MALLEOLUS CLSD,27760,983,623,Garfield_County_Health_Center
+FX TREATMENT PROXIMAL FIBULA CLOSE,27780,983,590,Garfield_County_Health_Center
+FX TREATMENT LATERAL MALLEOLUS CLS,27786,983,608,Garfield_County_Health_Center
+FX TREATMENT TRIMALLEOLAR CLOSED,27816,983,653,Garfield_County_Health_Center
+FX TREATMENT CALCANEAL CLOSED,28400,983,580,Garfield_County_Health_Center
+FX TREATMENT TALUS CLOSED,28430,983,539,Garfield_County_Health_Center
+FX TREATMENT TARSAL CLOSED,28450,983,525,Garfield_County_Health_Center
+FX TREATMENT METATARSAL CLOSED,28470,983,478,Garfield_County_Health_Center
+FX TREATMENT GREAT TOE CLOSED,28490,983,281,Garfield_County_Health_Center
+FX TREATMENT TOE/TOES CLOSED,28510,983,264,Garfield_County_Health_Center
+FX  TREATMENT SESAMOIND CLOSED,28530,983,118.5,Garfield_County_Health_Center
+CAST APPLICATION LONG ARR,29065,983,148,Garfield_County_Health_Center
+CAST APPLICATION SHORT ARM,29075,983,139,Garfield_County_Health_Center
+CAST APPLICATION GAUNTLET,29085,983,147,Garfield_County_Health_Center
+CAST APPLICATION FINGER,29086,983,115,Garfield_County_Health_Center
+SPLINTING LONG ARM,29105,983,144,Garfield_County_Health_Center
+SPLINTING SHORT ARM,29125,983,145,Garfield_County_Health_Center
+SPLINTING FINGER/FINGERS,29130,983,45,Garfield_County_Health_Center
+SPLINTING ELBOW OR WRIST,29260,983,102,Garfield_County_Health_Center
+SPLINTING HAND OR FINGER,29280,983,103,Garfield_County_Health_Center
+CAST APPLICATION SHORT LEG,29405,983,143,Garfield_County_Health_Center
+CAST APPLICATION SHORT LEG WALKING,29425,983,156,Garfield_County_Health_Center
+SPLINTING SHORT LEG,29515,983,113,Garfield_County_Health_Center
+SPLINTING KNEE,29530,983,101.3,Garfield_County_Health_Center
+SPLINTING ANKLE OR FOOT,29540,983,68,Garfield_County_Health_Center
+SPLINTING TOE/TOES,29550,983,66,Garfield_County_Health_Center
+SPLINTING UNNA BOOT,29580,983,89,Garfield_County_Health_Center
+APP OF STAPPING ARM WRIST HAND FIN,29584,983,115,Garfield_County_Health_Center
+REMOVAL OF CAST (APPLIED BY OTHER),29700,983,102,Garfield_County_Health_Center
+NASAL PACKING/CAUTERY SIMPLE,30901,983,155,Garfield_County_Health_Center
+BLOOD DRAWING,36415,300,25,Garfield_County_Health_Center
+VENIPUNCTURE,36415,300,54.75,Garfield_County_Health_Center
+BLOOD COLLECTION - CAPILLARY ,36416,300,10,Garfield_County_Health_Center
+BLOOD COLLECTION - F/VENOUS ACCESS,36540,300,20.84,Garfield_County_Health_Center
+INSERTION OF CATHETER (STRAIGHT),51701,983,148,Garfield_County_Health_Center
+REMOVAL OF FB EXTERNAL EYE SUPERFI,65205,983,130,Garfield_County_Health_Center
+REMOVAL OF FB EYE CORNEAL NO SLIT,65220,983,310,Garfield_County_Health_Center
+DRAINAGE OF ABSCESS EYELID,67700,983,200,Garfield_County_Health_Center
+REM OF B FROM EXT AUDITORY CANAL,69200,983,125,Garfield_County_Health_Center
+INPACTED CERUMEN REMOVAL,69210,983,26,Garfield_County_Health_Center
+EYE -  FOREIGN BODY,70030,320,137,Garfield_County_Health_Center
+MANDIBLE - LESS THAN 4 VIEWS,70100,320,217.3,Garfield_County_Health_Center
+MANDIBLE - MIN OF 4 VIEWS,70110,320,350.65,Garfield_County_Health_Center
+MASTOID - LESS THAN 3 PER SIDE,70120,320,230.34,Garfield_County_Health_Center
+MASTOID - MIN 3 PER SIDE ,70130,320,410.67,Garfield_County_Health_Center
+FACIAL BONES - LESS THAN 3 VIEWS,70140,320,245.6,Garfield_County_Health_Center
+FACIAL BONES - MIN OF 3 VIEWS,70150,320,275,Garfield_County_Health_Center
+NASAL BONES - COMPLETE,70160,320,230.34,Garfield_County_Health_Center
+SINUSES - LESS THAN 3 VIEWS,70210,320,181.59,Garfield_County_Health_Center
+SINUSES - MIN OF 3 VIEWS,70220,320,314.93,Garfield_County_Health_Center
+SKULL - LESS THAN 4 VIEWS,70250,320,187.21,Garfield_County_Health_Center
+SKULL - COMPLETE 4 VIEWS,70260,320,406.99,Garfield_County_Health_Center
+TMJ OPEN & CLOSED,70328,320,251,Garfield_County_Health_Center
+NECK/SOFT TISSUE,70360,320,153.41,Garfield_County_Health_Center
+CHEST - 1 VIEW FRONTAL,71045,324,174.4,Garfield_County_Health_Center
+CHEST - LATERAL VIEW ONLY,71045,324,187.4,Garfield_County_Health_Center
+CHEST - 1 VIEW FRONTAL & LATERAL,71045,320,174.4,Garfield_County_Health_Center
+CHEST - 2 VIEW FRONTAL & LATERAL,71046,324,209.71,Garfield_County_Health_Center
+CHEST - 2 VIEWS FRONTAL & LATERAL,71046,320,209.71,Garfield_County_Health_Center
+RIBS - UNILATERAL  2 VIEW,71100,320,254.84,Garfield_County_Health_Center
+RIB - BILATERAL  3 VIEW,71110,320,350.65,Garfield_County_Health_Center
+STERNUM - MIN OF 2 VIEWS,71120,320,245.6,Garfield_County_Health_Center
+STERNOCLAVICULAR JOINT MIN OF 3 VW,71130,320,275.6,Garfield_County_Health_Center
+SPINE 1 VIEW OF ANY SECTION,72020,320,104.6,Garfield_County_Health_Center
+SPINE CERVICAL 3 VIEWS OR LESS,72040,320,222.87,Garfield_County_Health_Center
+SPINE CERVICAL 4 OR 5 VIEWS,72050,320,350.65,Garfield_County_Health_Center
+CERVICAL WITH FLEXION & EXTENTSION,72052,320,467,Garfield_County_Health_Center
+T-SPINE - 2 VIEWS,72070,320,245.6,Garfield_County_Health_Center
+T-SPINE - 3 VIEWS,72072,320,275.6,Garfield_County_Health_Center
+THORACIC 4 VIEWS,72074,320,399.8,Garfield_County_Health_Center
+THORACOLUMBAR,72080,320,260,Garfield_County_Health_Center
+L-SPINE 2 OR 3 VIEWS,72100,320,245.6,Garfield_County_Health_Center
+L-SPINE  4 VIEW,72110,320,423.89,Garfield_County_Health_Center
+PELVIS - 1 OR 2 VIEWS,72170,320,187.21,Garfield_County_Health_Center
+PELVIS - MIN OF 3 VIEWS,72190,320,252.2,Garfield_County_Health_Center
+SI JOINTS 1-2 VIEWS,72200,320,165.8,Garfield_County_Health_Center
+SACRUM/COCCYX,72220,320,245.6,Garfield_County_Health_Center
+CLAVICLE - COMPLETE,73000,320,170.31,Garfield_County_Health_Center
+SCAPULA - COMPLETE,73010,320,209.71,Garfield_County_Health_Center
+SHOULDER - LIMITED 1 VIEW,73020,320,165.8,Garfield_County_Health_Center
+SHOULDER - COMPLETE 2 + VIEWS,73030,320,209.71,Garfield_County_Health_Center
+SHOULDER MIN OF 2 VIEWS,73030,320,55,Garfield_County_Health_Center
+A-C JOINT BILATERAL,73050,320,200,Garfield_County_Health_Center
+HUMERUS -  W/JOINT,73060,320,209.71,Garfield_County_Health_Center
+ELBOW - 2 VIEWS,73070,320,175.92,Garfield_County_Health_Center
+ELBOW - 3+ VIEWS,73080,320,209.71,Garfield_County_Health_Center
+FOREARM - 2 VIEW,73090,320,209.71,Garfield_County_Health_Center
+WRIST - LIMITED  2 VIEWS,73100,320,175.92,Garfield_County_Health_Center
+WRIST - 3 VIEWS,73110,320,209.71,Garfield_County_Health_Center
+WRIST 3 VIEWS,73110,320,55,Garfield_County_Health_Center
+HAND - LIMITED 2 VIEW,73120,320,175.92,Garfield_County_Health_Center
+HAND - COMPLETE 3 VIEW,73130,320,209.71,Garfield_County_Health_Center
+FINGER(S) MIN 2 VIEWS,73140,320,149.62,Garfield_County_Health_Center
+HIP - UNILATERAL LIMITED 1 VIEW,73500,320,247.42,Garfield_County_Health_Center
+HIP LIMITED,73501,320,287,Garfield_County_Health_Center
+HIP - UNILATER 2 VIEWS,73502,320,316.74,Garfield_County_Health_Center
+HIP - COMPLETE,73502,320,316.74,Garfield_County_Health_Center
+HIP - BILATERAL WITH PELVIC,73521,320,316.74,Garfield_County_Health_Center
+HIP - BILATERAL WITH PELVIS 3-4 VW,73522,320,340.74,Garfield_County_Health_Center
+HIP - BILATERAL WITH PELVIS MIN 5,73523,320,364.74,Garfield_County_Health_Center
+FEMUR - 1 VIEW,73551,320,230.34,Garfield_County_Health_Center
+FEMUR - MIN OF 2 VIEWS,73552,320,239,Garfield_County_Health_Center
+KNEE - 2 VIEWS,73560,320,230.34,Garfield_County_Health_Center
+KNEE - 3 VIEWS,73562,320,259.1,Garfield_County_Health_Center
+KNEE - COMPLETE 4 OR MORE VIEWS,73564,320,436.4,Garfield_County_Health_Center
+TIBIA/FIBULA,73590,320,170.31,Garfield_County_Health_Center
+ANKLE - 2 VIEWS,73600,320,171.2,Garfield_County_Health_Center
+ANKLE - 3 VIEWS ,73610,320,217.3,Garfield_County_Health_Center
+FOOT - LIMITED 2 VIEWS,73620,320,175.92,Garfield_County_Health_Center
+FOOT -  3 VIEWS,73630,320,217.3,Garfield_County_Health_Center
+CALCANEUS,73650,320,126.2,Garfield_County_Health_Center
+TOE(S),73660,320,186.8,Garfield_County_Health_Center
+ABDOMEN - 1 VIEW,74018,320,165.8,Garfield_County_Health_Center
+ABDOMEN 2 VIEWS,74019,320,189.8,Garfield_County_Health_Center
+KUB AND UPRIGHT,74021,320,290.55,Garfield_County_Health_Center
+ABDOMEN 3 OR MORE VIEW,74021,320,197,Garfield_County_Health_Center
+ACUTE ABDOMEN SERIES,74022,320,221,Garfield_County_Health_Center
+BABYGRAM,76010,320,130,Garfield_County_Health_Center
+ABD SONOGRAM COMPLETE,76700,402,361.9,Garfield_County_Health_Center
+RETROPERITONEAL ULTRASOUND COMPLET,76770,402,363,Garfield_County_Health_Center
+OB SONOGRAM COMPLETE,76805,402,231,Garfield_County_Health_Center
+OB SONOGRAM FOLLOWUP/REPEAT,76816,402,118.8,Garfield_County_Health_Center
+PELVIC TRANSVAGINAL ULTRASOUND,76830,402,390.5,Garfield_County_Health_Center
+PELVIC GYN COMPLETE,76856,402,342.1,Garfield_County_Health_Center
+TESTICULAR SONOGRAM,76870,402,280.5,Garfield_County_Health_Center
+ISTAT BASIC METABOLIC PANEL (CHEM8,80047,300,83.57,Garfield_County_Health_Center
+CHEM 8 ,80048,300,25,Garfield_County_Health_Center
+ISTAT - LYTES (K NA CL TCO2),80051,300,79.38,Garfield_County_Health_Center
+COMPREHENSIVE METABOLIC PANEL,80053,300,25,Garfield_County_Health_Center
+PICCO-CMP,80053,300,80,Garfield_County_Health_Center
+LIPID PANEL,80061,300,27.25,Garfield_County_Health_Center
+PICCO - LIPID PANEL,80061,300,80,Garfield_County_Health_Center
+HEP PROFILE  ACUTE,80074,300,130,Garfield_County_Health_Center
+LIVER PANEL,80076,300,25,Garfield_County_Health_Center
+LFT (HEPATIC PANEL),80076,300,0.25,Garfield_County_Health_Center
+DIGOXIN LEVEL,80162,300,40.25,Garfield_County_Health_Center
+VALPROIC ACID,80164,300,45,Garfield_County_Health_Center
+PHENOBARBITAL,80184,300,79.13,Garfield_County_Health_Center
+PHENYTOIN LEVEL,80185,300,49.32,Garfield_County_Health_Center
+ACCUSTEST MULTIDRUG TEST,80305,300,25,Garfield_County_Health_Center
+DRUGS OF ABUSE  URINE       ,80348,300,225.25,Garfield_County_Health_Center
+URINALYSIS,81000,300,46.55,Garfield_County_Health_Center
+UA  COMPLETE,81001,300,25,Garfield_County_Health_Center
+URINE DIPSTICK,81002,300,20,Garfield_County_Health_Center
+URINE RATIO,81003,300,18.27,Garfield_County_Health_Center
+UA  MICROSCOPIC,81015,300,25,Garfield_County_Health_Center
+HCG,81025,300,62.63,Garfield_County_Health_Center
+BETA HYDROXYBUTYRATE  SERUM,82010,300,40.4,Garfield_County_Health_Center
+ALBUMIN,82040,300,25,Garfield_County_Health_Center
+CREATINE/MICROALBUMIN,82043,300,30,Garfield_County_Health_Center
+AMYLASE,82150,300,36.89,Garfield_County_Health_Center
+PICC LIVER PANEL PLUS,82150,300,75,Garfield_County_Health_Center
+BILIRUBIN TOTAL,82247,300,25,Garfield_County_Health_Center
+BILIRUBIN DIRECT,82248,300,25,Garfield_County_Health_Center
+DBILI,82248,300,25,Garfield_County_Health_Center
+GUAIAC STOOL,82270,300,14.18,Garfield_County_Health_Center
+OCCULT BLOOT  IMMUNOASSARY  STOOL,82274,300,47,Garfield_County_Health_Center
+VITAMIN D LEVEL,82306,300,155.76,Garfield_County_Health_Center
+VITAMIN D 25-OH,82306,300,78,Garfield_County_Health_Center
+CD 19 B CELLS,82306,300,29,Garfield_County_Health_Center
+CALCIUM,82310,300,25,Garfield_County_Health_Center
+CALCIUM IONIZED                   ,82330,300,35,Garfield_County_Health_Center
+CEA,82378,300,65.21,Garfield_County_Health_Center
+ISTAT - CHLORIDE,82435,300,79.38,Garfield_County_Health_Center
+ISTAT - TC02 (CARBON DIOXIDE),82435,300,79.33,Garfield_County_Health_Center
+UREA NITROGEN (BUN),82520,300,26.9,Garfield_County_Health_Center
+CORTISOL,82533,300,59,Garfield_County_Health_Center
+KEPPRA LEVEL (MAYO 83140),82542,300,47.07,Garfield_County_Health_Center
+CPK,82550,300,43.85,Garfield_County_Health_Center
+CK MB,82553,300,77.85,Garfield_County_Health_Center
+CREATINE,82565,300,11.14,Garfield_County_Health_Center
+CREATINE URINE,82570,300,25,Garfield_County_Health_Center
+CYANOCOBALAMIN  (VIT B-12),82607,300,52.55,Garfield_County_Health_Center
+VIT B 12,82607,300,27,Garfield_County_Health_Center
+DHEA,82626,300,37.7,Garfield_County_Health_Center
+DHEA SULFATE,82627,300,32,Garfield_County_Health_Center
+VIT D 1 25 DIHYDROXY,82652,300,43,Garfield_County_Health_Center
+ESTRADIOL,82670,300,93,Garfield_County_Health_Center
+ESTRONE  SERUM,82679,300,25,Garfield_County_Health_Center
+FERRITIN,82728,300,65.62,Garfield_County_Health_Center
+FOLIC ACID  SERUM,82746,300,74.86,Garfield_County_Health_Center
+FOLATE,82746,300,27,Garfield_County_Health_Center
+GSEP  IGA SERUM,82784,300,25,Garfield_County_Health_Center
+ISTAT CG4+ BLOOD GASES,82803,300,79.59,Garfield_County_Health_Center
+ABG,82803,300,189.09,Garfield_County_Health_Center
+ISTAT GLUCOSE,82947,300,79.33,Garfield_County_Health_Center
+GLUCOSE            ,82947,300,25,Garfield_County_Health_Center
+GLUCOSE,82947,300,15,Garfield_County_Health_Center
+GLUCOSE FINGERSTICK,82948,300,13.57,Garfield_County_Health_Center
+GLUCOSE POST DOSE,82950,300,25,Garfield_County_Health_Center
+TOL  1ST 3 SPECIMENS,82951,300,23.1,Garfield_County_Health_Center
+TOL  ADDL SPECIMENS,82952,300,25,Garfield_County_Health_Center
+GGT,82977,300,85,Garfield_County_Health_Center
+FSH,83001,300,31,Garfield_County_Health_Center
+LH,83002,300,81,Garfield_County_Health_Center
+LH,83002,300,66,Garfield_County_Health_Center
+HGB A1C,83036,300,34.9,Garfield_County_Health_Center
+GLYCOSOLATE HEMOGLOBIN,83036,300,42.09,Garfield_County_Health_Center
+HOMOCYSTEINE,83090,300,133,Garfield_County_Health_Center
+17-HYDROXYPROGESTERONE,83498,300,32,Garfield_County_Health_Center
+CYCCITRUPEP AB,83516,300,49.45,Garfield_County_Health_Center
+TISSUE TRANSGLUTAMINASE AB,83516,300,30,Garfield_County_Health_Center
+INSULIN LEVEL,83525,300,25,Garfield_County_Health_Center
+IRON  BLOOD,83540,300,25,Garfield_County_Health_Center
+IRON BINDING CAPACITY (TIBC),83550,300,39.49,Garfield_County_Health_Center
+TIBC  MEASURED,83550,300,12,Garfield_County_Health_Center
+LACTIC ACID ,83605,300,59,Garfield_County_Health_Center
+LDH,83615,300,41.43,Garfield_County_Health_Center
+LDH,83615,300,25,Garfield_County_Health_Center
+LIPASE,83690,300,90.48,Garfield_County_Health_Center
+HDL CHOLESTEROL,83718,300,25,Garfield_County_Health_Center
+MAGNESIUM,83735,300,32,Garfield_County_Health_Center
+METANEPHRINES  FRACT,83835,300,45.5,Garfield_County_Health_Center
+MYOGLOBIN ASSAY,83874,300,86.25,Garfield_County_Health_Center
+B-TYPE NATRIURETIC PEPTIDE (BNP),83880,300,271.81,Garfield_County_Health_Center
+ISTAT - NATRIURETIC PEPTIDE (BNP),83880,300,95,Garfield_County_Health_Center
+KAPPA FREE LIGHT CHAIN,83883,300,31,Garfield_County_Health_Center
+OSMOLALITY,83930,300,29,Garfield_County_Health_Center
+PTH  INTACT ,83970,300,144,Garfield_County_Health_Center
+CALPROTECTIN  FECAL,83993,300,265,Garfield_County_Health_Center
+PHOSPHORUS,84100,300,25,Garfield_County_Health_Center
+ISTAT POTASSIUM (K+),84132,300,79.33,Garfield_County_Health_Center
+PROGESTERONE,84144,300,66.25,Garfield_County_Health_Center
+PROLACTIN,84146,300,39,Garfield_County_Health_Center
+PSA,84153,300,95.35,Garfield_County_Health_Center
+PSA UTLTRASENSITIVE (MAYOPSAU),84153,300,81.25,Garfield_County_Health_Center
+PSA FREE,84154,300,22,Garfield_County_Health_Center
+PROTEIN TOTAL  SERUM,84155,300,25,Garfield_County_Health_Center
+PROTEIN  URINE,84156,300,25,Garfield_County_Health_Center
+SERUM  PROTEIN   (SPEP),84165,300,41.81,Garfield_County_Health_Center
+PROTEIN ELECTROPHORESIS  S,84165,300,25,Garfield_County_Health_Center
+PROINSULIN,84206,300,148,Garfield_County_Health_Center
+PYRIDOXAL 5-PHOSPHATE (VIT B6),84207,300,43,Garfield_County_Health_Center
+ISTAT - SODIUM,84295,300,79.33,Garfield_County_Health_Center
+TESTOSTERONE  FREE,84402,300,35.56,Garfield_County_Health_Center
+TESTOSTERONE FREE,84402,300,25,Garfield_County_Health_Center
+TESTOSTERONE  TOTAL,84403,300,35.56,Garfield_County_Health_Center
+TESTOSTERONE BIO-AVAIL,84410,300,54,Garfield_County_Health_Center
+THYROGLOBULIN,84432,300,25,Garfield_County_Health_Center
+THYROXINE; TOTAL  (T4),84436,300,47.73,Garfield_County_Health_Center
+T4,84436,300,25,Garfield_County_Health_Center
+T4 FREE,84439,300,25,Garfield_County_Health_Center
+TBG FUNCTIONAL,84442,300,43,Garfield_County_Health_Center
+TSH,84443,300,36.89,Garfield_County_Health_Center
+TSH SENSITIVE,84443,300,47,Garfield_County_Health_Center
+SGOT,84450,300,25,Garfield_County_Health_Center
+SGPT,84460,300,25,Garfield_County_Health_Center
+TRANSFERRIN,84466,300,63.85,Garfield_County_Health_Center
+THYROID PROFILE  T3 T4 T7,84479,300,25,Garfield_County_Health_Center
+T3 TOTAL,84480,300,32.75,Garfield_County_Health_Center
+T3 FREE,84481,300,25,Garfield_County_Health_Center
+T3 REVERSE  SERUM (MAYO RT#),84482,300,40,Garfield_County_Health_Center
+TROPONIN ASSAY,84484,300,66.87,Garfield_County_Health_Center
+ISTAT - TROPONIN  QUANT (CTNL),84484,300,85.94,Garfield_County_Health_Center
+ISTAT BUN,84520,300,79.33,Garfield_County_Health_Center
+ZINC  SERUM,84630,300,22,Garfield_County_Health_Center
+C-PEPTIDE,84681,300,25,Garfield_County_Health_Center
+BHCG QUANT,84702,300,44.75,Garfield_County_Health_Center
+PREGNANCY  SERUM,84703,300,45.75,Garfield_County_Health_Center
+DIFF  MANUAL,85007,300,25,Garfield_County_Health_Center
+ISTAT HEMATOCRIT,85014,300,79.33,Garfield_County_Health_Center
+HMT (HEMATOCRIT,85014,300,23.26,Garfield_County_Health_Center
+ISTAT - HEMOGLOBIN,85018,300,79.33,Garfield_County_Health_Center
+HGB,85018,300,42.29,Garfield_County_Health_Center
+C-DIFF  IMMUNOASSAY F/INFECT AGENT,85025,300,25,Garfield_County_Health_Center
+CBC AUTOMATED,85025,300,50,Garfield_County_Health_Center
+CBC,85027,300,25,Garfield_County_Health_Center
+RETICULOCYTE COUNT  AUTOMATED,85045,300,28.72,Garfield_County_Health_Center
+85060 SMEAR REVIEW,85060,300,34,Garfield_County_Health_Center
+D-DIMER,85380,300,47.97,Garfield_County_Health_Center
+PLATELET,85595,305,19.82,Garfield_County_Health_Center
+PROTHROMBIN TIME  (INR),85610,300,19.02,Garfield_County_Health_Center
+ISTAT - PROTHROMBIN TIME,85610,300,78,Garfield_County_Health_Center
+ESR  (SED RATE),85651,300,23.99,Garfield_County_Health_Center
+MINI ISED,85652,300,25,Garfield_County_Health_Center
+PTT,85730,300,50.25,Garfield_County_Health_Center
+ALLERGEN PROFILE MAYO SEAS,86003,300,315,Garfield_County_Health_Center
+ANA SCREEN,86038,300,56.15,Garfield_County_Health_Center
+CRP,86140,300,25,Garfield_County_Health_Center
+C3 COMPLEMENT,86160,300,40.75,Garfield_County_Health_Center
+CH COMPLEMENT FUNCTIONAL,86161,300,82,Garfield_County_Health_Center
+CYCCITRUPEP AB,86200,300,35.45,Garfield_County_Health_Center
+DS DNA,86225,300,57.06,Garfield_County_Health_Center
+ANCA SCREEN,86255,300,45.58,Garfield_County_Health_Center
+NEUTROPHIL AB,86255,300,55.1,Garfield_County_Health_Center
+MONO TEST,86308,300,25,Garfield_County_Health_Center
+STREP PNEUM IGG AB-23,86317,300,82,Garfield_County_Health_Center
+IMMUNOFIXATION ONLY  SERUM,86334,300,146,Garfield_County_Health_Center
+INSULIN AB,86337,300,54.6,Garfield_County_Health_Center
+NK CELL,86357,300,29,Garfield_County_Health_Center
+CD 3 T CELLS & T CELL TOTAL,86359,300,290,Garfield_County_Health_Center
+CD4 AND CD8 CELL COUNT,86360,300,31,Garfield_County_Health_Center
+CD4 COUNT,86361,300,189,Garfield_County_Health_Center
+HEP B DNA,86361,300,176.5,Garfield_County_Health_Center
+TPO,86376,300,39.4,Garfield_County_Health_Center
+STREP SCREEN,86403,300,80.92,Garfield_County_Health_Center
+RF,86431,300,25.25,Garfield_County_Health_Center
+PPD TINE TEST,86580,300,21.77,Garfield_County_Health_Center
+TUBERCULOSIS INTRADERMAL TESTING,86580,983,21,Garfield_County_Health_Center
+RPR,86592,300,25,Garfield_County_Health_Center
+CMV IGG,86644,300,25,Garfield_County_Health_Center
+CMV IGM,86644,300,25,Garfield_County_Health_Center
+EBV NUCLEAR AG,86664,300,25,Garfield_County_Health_Center
+VIRAL CAPSID AB IGG,86665,300,46.5,Garfield_County_Health_Center
+SACC AB LGA & LGG,86671,300,111,Garfield_County_Health_Center
+HELICOBACTER PYLORI - IMMUNOASSAY,86677,300,129,Garfield_County_Health_Center
+H INFLU B AB IGG,86684,300,77.75,Garfield_County_Health_Center
+HIV 1 AND 2,86703,300,29,Garfield_County_Health_Center
+MUNPS IGG,86735,300,31,Garfield_County_Health_Center
+RUBELLA IGG,86762,300,22,Garfield_County_Health_Center
+RUBEOLA IGG AB,86765,300,22,Garfield_County_Health_Center
+SARS CORONAVIRUS 2 IGG AB,86769,300,60,Garfield_County_Health_Center
+VARICELLA AB,86787,300,30,Garfield_County_Health_Center
+THYROGLOBULIN AB,86800,300,30,Garfield_County_Health_Center
+HEP C AB,86803,300,25,Garfield_County_Health_Center
+COOMBS  INDIRECT,86885,302,44.52,Garfield_County_Health_Center
+ABO GROUP,86900,302,23.21,Garfield_County_Health_Center
+IMMEDIATE SPIN TECHNIQUE,86920,302,33.62,Garfield_County_Health_Center
+CULTURE  BLOOD,87040,300,83.82,Garfield_County_Health_Center
+CULTURE  STOOL,87045,300,61.72,Garfield_County_Health_Center
+SHIGELLA SALMONELLA,87045,300,25,Garfield_County_Health_Center
+CAMPY CULT,87046,300,25,Garfield_County_Health_Center
+E COLI 0157 CULT,87046,300,25,Garfield_County_Health_Center
+CULTURE  SPUTUM,87070,300,47.61,Garfield_County_Health_Center
+CULTURE - WOUND,87070,300,37.04,Garfield_County_Health_Center
+CULT - FLUID,87070,300,25,Garfield_County_Health_Center
+CULT WOUND/ ABS ANAEROBIC,87075,300,21,Garfield_County_Health_Center
+AEROBIC ID,87077,300,25,Garfield_County_Health_Center
+CULTURE  URINE,87086,300,37.29,Garfield_County_Health_Center
+CULT UR AND COL CT,87086,300,25,Garfield_County_Health_Center
+OVA AND PARASITES,87177,300,33,Garfield_County_Health_Center
+DISC SUSCEPTIBILITY,87184,300,21,Garfield_County_Health_Center
+SENSITIVIT STUDY/MIC,87186,300,34.28,Garfield_County_Health_Center
+GRAM STAIN,87205,300,25,Garfield_County_Health_Center
+TRICHROME STAIN,87209,300,50.85,Garfield_County_Health_Center
+TISSUE CULTURE  TOXIN/ANTITOXIN ,87230,300,134.46,Garfield_County_Health_Center
+TOXIN ASSAY  TISSUE CULT  CLOS DIF,87230,300,0.25,Garfield_County_Health_Center
+GIARDIA AG,87269,300,29.35,Garfield_County_Health_Center
+CRYPTOSPORIDIUM AG,87272,300,29.32,Garfield_County_Health_Center
+INFEC ANTIGEN  CLOS DIFF TOXIN,87324,300,0.25,Garfield_County_Health_Center
+C DIFF TOXIGENIC,87324,300,30.66,Garfield_County_Health_Center
+HELICOBACTOR PYLORI ANTIGEN  F,87338,300,58,Garfield_County_Health_Center
+HAA,87340,300,25,Garfield_County_Health_Center
+ANTIGEN DETECT- INFLUENZA A/B,87400,300,78.98,Garfield_County_Health_Center
+COVID 19 RAPID TEST,87426,300,75,Garfield_County_Health_Center
+C DIFFICILE GDH,87449,300,86,Garfield_County_Health_Center
+CHLAMYDIA RNA AMP,87492,300,35,Garfield_County_Health_Center
+C DIFFICILE BY PCR,87493,300,86,Garfield_County_Health_Center
+CMV DNA QN BY PCR,87497,300,85,Garfield_County_Health_Center
+ENTEROVIRUS PCR,87498,300,82,Garfield_County_Health_Center
+HEP C RNA (RT-PCR),87522,300,106.95,Garfield_County_Health_Center
+HIV1 DNA/RNA QUAL,87535,300,436,Garfield_County_Health_Center
+NEISSERIA RNA AMP,87592,300,27,Garfield_County_Health_Center
+HPV HIGH RISK,87624,300,69,Garfield_County_Health_Center
+MSSA,87640,300,89.75,Garfield_County_Health_Center
+MRSA,87641,300,89.75,Garfield_County_Health_Center
+TRICHOMONAS VAGINALIS RNA,87661,300,84.25,Garfield_County_Health_Center
+PAP WITH PATHOLOGIST INTERP,88141,300,32.67,Garfield_County_Health_Center
+THIN PREP PAPSMEAR,88142,300,37.89,Garfield_County_Health_Center
+PSP LB SUTO + MANUAL SCREEN,88175,300,45,Garfield_County_Health_Center
+SURG PATH LEVEL III,88304,300,45,Garfield_County_Health_Center
+SURG PATH LEVEL IV,88305,300,93.95,Garfield_County_Health_Center
+SURG PATH LEVEL IV,88305,300,85,Garfield_County_Health_Center
+FLUZONE HD 65 YEARS,90662,250,56,Garfield_County_Health_Center
+CPR,92950,983,434,Garfield_County_Health_Center
+EKG,93005,730,192.5,Garfield_County_Health_Center
+EKG PROFESSIONAL,93010,985,25,Garfield_County_Health_Center
+RHYTHM STRIP,93041,730,74.8,Garfield_County_Health_Center
+CARDIAC MONITOR,93225,731,125,Garfield_County_Health_Center
+ECHOCARDIOLOGY- 2D COMPLETE,93307,480,756.8,Garfield_County_Health_Center
+ECHOCARDIOLOGY- 2D LIMITED,93308,409,132,Garfield_County_Health_Center
+ECHOCARDIOLOGY- CARDIAC DOPLER COM,93320,480,338.8,Garfield_County_Health_Center
+ECHOCARDIOLOGY- CARDIAC DOPPLER LI,93321,409,125.4,Garfield_County_Health_Center
+ECHOCARDIOLOGY- COLOR FLOW DOPPLER,93325,480,574.2,Garfield_County_Health_Center
+SPIROMETRY,94010,460,73.95,Garfield_County_Health_Center
+NEBULIZER TREATMENT,94640,460,29.45,Garfield_County_Health_Center
+NEBULIZER BREATHING TREATMENT,94640,460,55,Garfield_County_Health_Center
+PULSE OXIMETRY,94760,460,39.6,Garfield_County_Health_Center
+ALLERGY INJECTION,95115,510,16,Garfield_County_Health_Center
+ALLERGY INJECTION MULTIPLE,95117,983,21,Garfield_County_Health_Center
+IV INFUSION HYDRATION IST HOUR,96360,260,85,Garfield_County_Health_Center
+IV INFUSION HYDRATION 1ST HOUR,96360,450,325,Garfield_County_Health_Center
+IV INFUSION 1ST HOUR HYDRATION,96360,260,115.5,Garfield_County_Health_Center
+IV INFUSION HYDRATION 1ST HOUR,96360,260,85,Garfield_County_Health_Center
+IV INFUSION HYDATION ADDT HOURS,96361,260,60,Garfield_County_Health_Center
+IV INFUSION ADDT HOUR HYDRATION,96361,450,60,Garfield_County_Health_Center
+IV INFUSTION ADDTL HOUR HYDRATION,96361,260,115.5,Garfield_County_Health_Center
+IV INFUSTION OBS ADD HOURS,96361,260,60,Garfield_County_Health_Center
+IV INFUSION SKILLED SWING BED,96365,120,325,Garfield_County_Health_Center
+IV INFUSION 1ST HOUR,96365,450,325,Garfield_County_Health_Center
+IV INFUSION OUTPT 1ST HOUR,96365,260,250,Garfield_County_Health_Center
+OBSERVATION INFUSION 1ST HOUR ,96365,762,125,Garfield_County_Health_Center
+IV INFUSION ER ADD HOURS,96366,450,115.5,Garfield_County_Health_Center
+IV INFUSION OUTPT ADDL HOURS,96366,260,115.5,Garfield_County_Health_Center
+IV INFUSION OBSERVATION ADDL HOURS,96366,762,85,Garfield_County_Health_Center
+IM PUSH ER SINGLE MED,96372,450,104,Garfield_County_Health_Center
+IM PUSH OUTPT SINGLE MED,96372,260,104,Garfield_County_Health_Center
+ADMINISTRATION OF INJECTABLE MED,96372,983,16,Garfield_County_Health_Center
+IV PUSH  SINGLE OR INITIAL,96374,450,104,Garfield_County_Health_Center
+IV PUSH SINGLE OR INITIAL DRUG    ,96374,260,187.18,Garfield_County_Health_Center
+IV PUSH EACH ADD'L PUSH NEW DRUG,96375,450,104,Garfield_County_Health_Center
+IV PUSH NEW DRUG,96375,260,104,Garfield_County_Health_Center
+IVP EACH OF SAME DRUG AFTER 31 MIN,96376,450,104,Garfield_County_Health_Center
+IV PUSH SAME DRUG,96376,260,104,Garfield_County_Health_Center
+IRRIGATION OF PICC DEVICE,96523,983,40,Garfield_County_Health_Center
+OFF ICE VISIT NEW LEVEL 1,99201,983,49.5,Garfield_County_Health_Center
+OFFICE VISIT NEW LEVEL 2,99202,983,84.25,Garfield_County_Health_Center
+OFFICE VISIT NEW LEVEL 3,99203,983,123,Garfield_County_Health_Center
+OFFICE VISIT NEW LEVEL 4,99204,983,185,Garfield_County_Health_Center
+OFFICE VISIT NEW LEVEL 5,99205,983,234,Garfield_County_Health_Center
+OFFICE VISIT ESTABLISHED LEVEL 2,99212,983,49,Garfield_County_Health_Center
+OFFICE VISIT ESTABLISHED LEVEL 3,99213,983,82,Garfield_County_Health_Center
+OFFICE VISIT ESTABLISHED LEVEL 4,99214,983,121,Garfield_County_Health_Center
+OFFICE VISIT ESTABLISHED LEVEL 5,99215,983,200,Garfield_County_Health_Center
+OBSERVATION CAH DISCHARGE,99217,983,125,Garfield_County_Health_Center
+OBSERVATION CAH LOW COMPLEXITY,99218,983,155,Garfield_County_Health_Center
+OBSERVATION CAH MODERATE COMPLEXIT,99219,983,217,Garfield_County_Health_Center
+OBSERVATION CAH HIGH COMPLEXITY,99220,983,248,Garfield_County_Health_Center
+HOSPITAL ADMIT LEVEL 1 BREIF,99221,983,145,Garfield_County_Health_Center
+HOSPITAL ADMIT LEVEL 2 INTERMED,99222,983,217,Garfield_County_Health_Center
+HOSPITAL ADMIT LEVEL 3 COMPLICATED,99223,983,278,Garfield_County_Health_Center
+INPATIENT DAILY VISIT LEVEL 1,99231,983,68,Garfield_County_Health_Center
+INPATIENT DAILY VISIT LEVEL 2,99232,983,105,Garfield_County_Health_Center
+INPATIENT DAILY VISIT LEVEL 3,99233,983,155,Garfield_County_Health_Center
+OBSERVATION INPT LOW COMPLEXITY,99234,983,273,Garfield_County_Health_Center
+OBSERVATION INPT MODERATE COMPLEXI,99235,983,340,Garfield_County_Health_Center
+OBSERVATION INPT HIGH COMPLEXITY,99236,983,408,Garfield_County_Health_Center
+HOSPITAL DISCHARGE 30 MIN OR LESS,99238,983,122,Garfield_County_Health_Center
+HOSPIT DISCHARGE 30 MIN OR MORE,99239,983,162,Garfield_County_Health_Center
+OFFICE CONSULTATION LEVEL 1,99241,983,128,Garfield_County_Health_Center
+OFFICE CONSULTATION LEVEL 2,99242,983,213,Garfield_County_Health_Center
+E.R. - LEVEL I,99281,450,240,Garfield_County_Health_Center
+ER CARE LEVEL 1,99281,981,88,Garfield_County_Health_Center
+E.R. - LEVEL II,99282,450,350,Garfield_County_Health_Center
+ER CARE LEVEL 2,99282,981,130,Garfield_County_Health_Center
+ER CARE LEVEL 2,99282,521,118,Garfield_County_Health_Center
+E.R. - LEVEL III,99283,450,525,Garfield_County_Health_Center
+ER CARE LEVEL 3,99283,981,137,Garfield_County_Health_Center
+ER CARE LEVEL 3,99283,521,124,Garfield_County_Health_Center
+E.R. - LEVEL IV,99284,450,675,Garfield_County_Health_Center
+ER CARE LEVEL 4,99284,981,226,Garfield_County_Health_Center
+ER CARE LEVEL 4,99284,521,205,Garfield_County_Health_Center
+E.R. - LEVEL V,99285,450,1205,Garfield_County_Health_Center
+ER CARE LEVEL 5,99285,981,295,Garfield_County_Health_Center
+ER CARE LEVEL 5,99285,521,267,Garfield_County_Health_Center
+CRITICAL CARE 30 TO 74 MINUTES,99291,983,220.87,Garfield_County_Health_Center
+CRITICAL CARE ADDLT 30 MINUTES,99291,983,110.62,Garfield_County_Health_Center
+CRITICAL CARE 74 MINS,99291,521,220.85,Garfield_County_Health_Center
+CRITICAL CARE ADDTL 30 MINS,99292,521,112,Garfield_County_Health_Center
+INITIAL NURSING HOME VISIT,99306,983,150,Garfield_County_Health_Center
+NURSING HOME VISIT,99307,983,52,Garfield_County_Health_Center
+NURSING HOME VISIT,99308,983,78,Garfield_County_Health_Center
+NURSING HOME VISIT,99309,983,102.84,Garfield_County_Health_Center
+PROLONGED SERVICE OFFICE OR OUTPT,99354,983,217,Garfield_County_Health_Center
+PROLONGED SERVICE ADDITIONAL 30MIN,99354,983,192,Garfield_County_Health_Center
+PROLONGED SERVICE INPT OR OBS,99356,983,180,Garfield_County_Health_Center
+PROLONGED SERVICE IP/OBS ADD 30 MI,99357,983,167,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PAT UNDER 1YR,99381,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PT 1-4 YRS,99382,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PT 5-11 YRS,99383,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PT 12-17 YRS,99384,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PT 18-39 YRS,99385,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PT 40-64 YRS,99386,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT NEW PT 65+ YRS,99387,983,160,Garfield_County_Health_Center
+PREVENTIVE VISIT EST UNDER 1 YRS,99391,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT EST PT 1-4 YRS,99392,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT EST PT 5-11,99393,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT EST PT 12-17 YRS,99394,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT EST PT 18-39 YRS,99395,983,0,Garfield_County_Health_Center
+PREVENTIVE VISIT EST PT 40-64 YRS,99396,983,0,Garfield_County_Health_Center
+CCM 20 NIN FACE TO FACE/MONTHLY,99490,983,41.92,Garfield_County_Health_Center
+COVID-19 VACCINE ADMIN FEE 1ST,0011A,771,16.94,Garfield_County_Health_Center
+COVID 19 VACCINE ADM FEE 2ND,0012A,771,28.39,Garfield_County_Health_Center
+AMB - BLS  MILEAGE,A0425,540,15,Garfield_County_Health_Center
+AMB - BLS  NON-EMERG,A0428,540,300,Garfield_County_Health_Center
+AMB - BLS  EMERGENT,A0429,540,500,Garfield_County_Health_Center
+CO2 DETECTOR EASY CAP II,A4204,270,90.19,Garfield_County_Health_Center
+"NEEDLE 20GX3 1/2"" 405182",A4215,270,16.67,Garfield_County_Health_Center
+URINARY LEG BAG 9645 ,A4215,270,57.63,Garfield_County_Health_Center
+WRIST BRACE LEFT LARGE,A4215,270,169.8,Garfield_County_Health_Center
+WRIST FOREARM SPLINT-RIGHT MED,A4215,270,100.75,Garfield_County_Health_Center
+SUTURE 8686G         ,A4215,270,83.41,Garfield_County_Health_Center
+ABCO UNIVERSAL CLINIC COLLAR,A4215,270,55.32,Garfield_County_Health_Center
+OTH - SALINE FLUSH 10MG,A4216,250,19.2,Garfield_County_Health_Center
+OTH - STERILE WATER VIALS,A4218,250,19.2,Garfield_County_Health_Center
+DUO DERM 4X4            ,A4244,270,62.58,Garfield_County_Health_Center
+EASY SPILL CLEAN UP KIT,A4246,270,40.16,Garfield_County_Health_Center
+WALKING BOOT KNEE HEIGHT,A4454,270,288.52,Garfield_County_Health_Center
+CAST BOOT SOFT      ,A4454,270,55.32,Garfield_County_Health_Center
+"COBAN  TAN  1""",A4460,270,9.05,Garfield_County_Health_Center
+"COBAN  TAN  6""",A4460,270,39.24,Garfield_County_Health_Center
+"COBAN  TAN  2""",A4460,270,16.67,Garfield_County_Health_Center
+"COBAN  COLOR  2""",A4460,270,16.67,Garfield_County_Health_Center
+"COBAN  TAN  3""",A4460,270,16.67,Garfield_County_Health_Center
+"COBAN  COLOR  3""",A4460,270,20.03,Garfield_County_Health_Center
+TRAY - SURGICAL  STERILE,A4550,270,42.63,Garfield_County_Health_Center
+TRAY - SURGICAL  SUTURE,A4550,270,57.38,Garfield_County_Health_Center
+TRAY - SUTURE/STAPLE REMOVAL,A4550,270,51.78,Garfield_County_Health_Center
+TRAY - CATHETER  W/0 CATH  W/O BAG,A4550,270,69.74,Garfield_County_Health_Center
+SLING - STRAP ARM,A4565,270,40.16,Garfield_County_Health_Center
+SLING - HANGING CAST,A4565,270,28.89,Garfield_County_Health_Center
+SLING - SNOOPY ARM,A4565,270,42.11,Garfield_County_Health_Center
+SAM SPLINT,A4570,270,96.96,Garfield_County_Health_Center
+CLAVICLE SPLINT-UNIVERSAL ,A4570,270,96.96,Garfield_County_Health_Center
+SPLINT - CLAVICLE LG,A4570,270,51.53,Garfield_County_Health_Center
+NON REBREATH-PEDIATRIC MASK,A4570,270,32.9,Garfield_County_Health_Center
+ABCO LEFT WRIST,A4570,270,40.16,Garfield_County_Health_Center
+SPLINT - WRIST COCK-UP,A4570,270,55.32,Garfield_County_Health_Center
+WRIST BRACE   ,A4570,270,169.8,Garfield_County_Health_Center
+O2 REGULATOR        ,A4570,270,245.38,Garfield_County_Health_Center
+SPLINT - WRIST/THUMB  ALL,A4570,270,160.14,Garfield_County_Health_Center
+SPLINT - AIRCAST,A4570,270,133.37,Garfield_County_Health_Center
+FINGER SPLINT  ,A4570,270,16.67,Garfield_County_Health_Center
+CAST - PLASTER - CYLINDER <10,A4580,270,84.03,Garfield_County_Health_Center
+CAST - PLASTER - CYLINDER 10+,A4580,270,210.72,Garfield_County_Health_Center
+SPLINT - FIBER - LONG ARM <10,A4590,270,101.45,Garfield_County_Health_Center
+SPLINT - FIBER - LONG ARM 10+,A4590,270,223.28,Garfield_County_Health_Center
+SPLINT - FIBER - SHORT ARM 10+,A4590,270,88.77,Garfield_County_Health_Center
+SPLINT - FIBER - LONG LEG <10,A4590,270,106.56,Garfield_County_Health_Center
+SPLINT - FIBER - LONG LEG <10,A4590,270,220.94,Garfield_County_Health_Center
+SPLINT - FIBER - LONG LEG 10+,A4590,270,248.53,Garfield_County_Health_Center
+SPLINT - FIBER - SHORT LEG <10,A4590,270,109.27,Garfield_County_Health_Center
+SPLINT - FIBER - SHORT LEG 10+,A4590,270,301.89,Garfield_County_Health_Center
+CAST - FIBER - LONG ARM <10,A4590,270,253.74,Garfield_County_Health_Center
+CAST - FIBER - LONG ARM 10+,A4590,270,322.14,Garfield_County_Health_Center
+CAST - FIBER - SHORT ARM 10+,A4590,270,172.44,Garfield_County_Health_Center
+CAST - FIBER - SHORT ARM 10+,A4590,270,198.04,Garfield_County_Health_Center
+CAST - FIBER - GAUNTLETT <10,A4590,270,116.83,Garfield_County_Health_Center
+CAST - FIBER - GAUNTLETT 10+,A4590,270,149.6,Garfield_County_Health_Center
+CAST - FIBER - LONG LEG <10,A4590,270,319.26,Garfield_County_Health_Center
+CAST - FIBER LONG LEG 10+,A4590,270,610.68,Garfield_County_Health_Center
+CAST - FIBER - SHORT LEG <10,A4590,270,296.77,Garfield_County_Health_Center
+CAST - FIBER - SHORT LEG 10+,A4590,270,408.15,Garfield_County_Health_Center
+CAST - FIBER - CYLINDER <10,A4590,270,306.7,Garfield_County_Health_Center
+CAST - FIBER - CYLINDER 10+,A4590,270,585.43,Garfield_County_Health_Center
+OXYGEN - TUBING  7',A4616,270,13.7,Garfield_County_Health_Center
+OXYGEN - TUBING  14',A4616,270,13.95,Garfield_County_Health_Center
+O2 MASK  ADULT,A4620,270,16.67,Garfield_County_Health_Center
+DRESSING  SURGICAL ,A6205,623,34.17,Garfield_County_Health_Center
+OPTIFOAM GENTLE AG+,A6213,270,68.64,Garfield_County_Health_Center
+BLOOD DRAW FOR LAW ENFORCEMENT,G0001,300,25,Garfield_County_Health_Center
+INFLUENZA VACCINE ADMINISTRATION,G0008,983,16,Garfield_County_Health_Center
+PNEUMOCOCCAL ADMIN VACCINE,G0009,983,16,Garfield_County_Health_Center
+OBSERVATION FIRST HOUR,G0378,762,360,Garfield_County_Health_Center
+OBSERVATION 2ND HOUR,G0378,762,360,Garfield_County_Health_Center
+OBSERVATION 3RD HOUR,G0378,762,165,Garfield_County_Health_Center
+OBSERVATION   4-24 HOURS,G0378,762,15,Garfield_County_Health_Center
+OBSERVATION EACH HR OVER 24,G0378,762,50,Garfield_County_Health_Center
+PREVENTIVE VISIT EST PT 65+ YRS,G0439,983,135,Garfield_County_Health_Center
+COVID SPECIMEN COLLECTION,G2023,300,23.46,Garfield_County_Health_Center
+INJ - ADENOSINE 6MG/2ML,J0151,259,110.45,Garfield_County_Health_Center
+INJ - EPINEPHRINE 1:1000,J0171,259,82.55,Garfield_County_Health_Center
+INJ - EPINEPHRINE 1:10 000,J0171,259,35.55,Garfield_County_Health_Center
+INJ - AMIODARONE 150MG/3ML,J0282,259,63.95,Garfield_County_Health_Center
+INJ - ATROPINE SULFATE ,J0461,259,35.55,Garfield_County_Health_Center
+INJ - CEFTRIAXONE 1MG  (ROCEPHIN),J0696,259,35.55,Garfield_County_Health_Center
+INJ - CIPRO 400MG,J0706,259,35.55,Garfield_County_Health_Center
+TAB - CLONIDINE 0.1MG,J0735,250,4.7,Garfield_County_Health_Center
+INJ - DEXAMETHASONE    ,J1094,259,35.55,Garfield_County_Health_Center
+INJ - DIGOXIN 500 MCG/2ML,J1160,259,35.55,Garfield_County_Health_Center
+TAB - DIGOXIN 0.25MG,J1160,250,4.7,Garfield_County_Health_Center
+INJ - HYDROMORPHONE HCI,J1170,259,28.35,Garfield_County_Health_Center
+INJ - DIPHENHYDRAMINE HCI 50MG/1ML,J1200,250,35.55,Garfield_County_Health_Center
+INJ - DOPAMINE HCL 200/5ML,J1265,259,35.55,Garfield_County_Health_Center
+TAB - FLUCONAZOLE,J1450,250,4.7,Garfield_County_Health_Center
+INJ - GLUCAGEN 1MG ,J1610,259,336.5,Garfield_County_Health_Center
+INJ - HALOPERIDOL 5MG/ML,J1630,259,46.14,Garfield_County_Health_Center
+INJ - HEPARIN 5000 UNITS/ML,J1644,259,35.55,Garfield_County_Health_Center
+INJ - ENOXAPARIN 30MG/0.3ML,J1650,259,34.6,Garfield_County_Health_Center
+INJ - ENOXAPARIN 40 MG/0.4ML,J1650,259,34.6,Garfield_County_Health_Center
+INJ - ENOXAPARTIN  100MG,J1650,259,90,Garfield_County_Health_Center
+TAB - IBUPROFEN 200G,J1741,250,4.7,Garfield_County_Health_Center
+TAB - IBUPROFEN 600MG,J1741,250,4.7,Garfield_County_Health_Center
+INJ - KETORALAC 30 MG/ML  (TORADOL,J1885,259,36.58,Garfield_County_Health_Center
+TAB - FUROSEMIDE 40 MG,J1940,250,4.7,Garfield_County_Health_Center
+INJ - FUROSEMIDE 100MG/10ML (LASIX,J1940,259,35.55,Garfield_County_Health_Center
+TAB - LEVOFLOXICIN 500MG,J1956,250,7.4,Garfield_County_Health_Center
+INJ - LIDOCAINE HCL 1% 10MG/ML,J2001,259,35.55,Garfield_County_Health_Center
+TAB - LORAZEPAM 1MG   (ATIVAN),J2060,250,5.75,Garfield_County_Health_Center
+INJ - LORAZEPAM 2MG/1ML  (ATIVAN),J2060,259,35.55,Garfield_County_Health_Center
+INJ - MANNITOL 12.5 MG/50 ML,J2150,259,35.55,Garfield_County_Health_Center
+INJ - MIDAZOLAM 2MG/2ML,J2250,259,35.55,Garfield_County_Health_Center
+INJ - MORPHINE SULFATE 2MG/ML,J2270,259,35.55,Garfield_County_Health_Center
+INJ - MORPHINE SURFATE 10 MG/ML,J2270,259,62.55,Garfield_County_Health_Center
+INJ - NALOXONE HYDROCHLORIDE 0.4MG,J2310,259,35.55,Garfield_County_Health_Center
+INJ - ONDANSETRON HCI 4MG/2ML,J2405,259,61.25,Garfield_County_Health_Center
+INJ - PROMETHAZINE HCI 25MG/ML,J2550,259,35.55,Garfield_County_Health_Center
+INJ - PROCAINAMIDE 1MG,J2690,259,35.55,Garfield_County_Health_Center
+INJ - METOCLOPRAMIDE 10MG/2ML,J2765,259,35.55,Garfield_County_Health_Center
+INJ - SODUIM CHLORIDE,J2912,259,35.55,Garfield_County_Health_Center
+INJ - FENTARNYL CITRATE,J3010,259,28.35,Garfield_County_Health_Center
+INJ - TRIAMCINOLONE,J3301,259,35.55,Garfield_County_Health_Center
+OTH - DIAZEPAM RECTAL KIT ,J3360,250,757.63,Garfield_County_Health_Center
+INJ - DIAZEPAM 10MG/2ML,J3360,259,0,Garfield_County_Health_Center
+TAB - DIAZEPAM 2.5MG,J3360,250,0,Garfield_County_Health_Center
+TAB - HYDROXINE 25 MG ,J3410,259,5.75,Garfield_County_Health_Center
+INJ - VITAMIN K1 10MG/ML,J3430,259,48.5,Garfield_County_Health_Center
+INJ - MAGNESIUM SULFATE 50% 1GM/2M,J3475,259,35.55,Garfield_County_Health_Center
+IV - MAGNESIUM SULFATE 40MG/ML,J3475,258,0,Garfield_County_Health_Center
+INJ - POTASSIUM CHLORIDE 20MEQ/10M,J3480,258,35.55,Garfield_County_Health_Center
+IV - NITROGLYCERIN 50ML W/DEXTROSE,J3490,258,88.84,Garfield_County_Health_Center
+IV - .9% NACL (NS) 1000ML,J7030,258,74.4,Garfield_County_Health_Center
+IV - .9% NACL (NS) 500ML,J7040,258,62.43,Garfield_County_Health_Center
+IV - DEXTROSE 5% AND 0.9% 1000ML,J7042,259,62.45,Garfield_County_Health_Center
+IV - D5 1/2NS 1000ML,J7042,258,62.43,Garfield_County_Health_Center
+IV - .9% NACL (NS) 250ML,J7050,258,62.43,Garfield_County_Health_Center
+IV - D5 (5% DEXTROSE) 500ML,J7060,258,62.43,Garfield_County_Health_Center
+IV - D5 (5% DEXTROSE) 1000ML,J7060,258,62.43,Garfield_County_Health_Center
+IV - LACTATED RINGERS 500ML,J7120,258,62.43,Garfield_County_Health_Center
+IV - LACTATED RINGERS 1000ML,J7120,258,62.43,Garfield_County_Health_Center
+IV - D5LR 1000ML,J7121,258,62.43,Garfield_County_Health_Center
+ TAB - PREDNISONE 20MG,J7506,250,5.75,Garfield_County_Health_Center
+TAB - MEDROL DOSE PAK (21),J7509,250,51.22,Garfield_County_Health_Center
+SUSP - PREDNISOLONE 15MG/5ML      ,J7510,250,90,Garfield_County_Health_Center
+OTH - PREDNISOLONE ACETATE OPTH SO,J7510,259,66.14,Garfield_County_Health_Center
+INH SOL - ALBUTEROL NEB.083%,J7620,259,61.25,Garfield_County_Health_Center
+INH - ALBUTERAL SULFATE 90 MCG    ,J7620,250,57.35,Garfield_County_Health_Center
+KNEE BRACE - WRAP AROUND,L1820,270,143.9,Garfield_County_Health_Center
+WALKING BOOT SHORT,L4361,270,274.08,Garfield_County_Health_Center
+BLOOD - RBC UNIT,P9010,386,385.68,Garfield_County_Health_Center
+TAB - ONDANSTERON 4MG,Q0162,250,4.7,Garfield_County_Health_Center
+INJ - BUPIVACAINE HCL 5MG/1ML  ,S0020,259,35.55,Garfield_County_Health_Center
+CAH INPATIENT,     ,120,1200,Garfield_County_Health_Center
+CAH SKILLED SWING BED    ,     ,120,1495,Garfield_County_Health_Center
+SWING BED-SKILLED ROOM,     ,120,1495,Garfield_County_Health_Center
+INTERMIDATE SWING BED MEDICAID,     ,120,209.6,Garfield_County_Health_Center
+INTERMEDIATE SWING BED OTHER,     ,120,220,Garfield_County_Health_Center
+NURSING ASSEMENT,     ,450,69,Garfield_County_Health_Center
+AMB - SUPPLY,     ,540,0,Garfield_County_Health_Center
+AMB - OXYGEN,     ,540,0,Garfield_County_Health_Center
+AQUACEL 2X2     ,     ,270,40.23,Garfield_County_Health_Center
+BULB/SYRINGE,     ,270,16.67,Garfield_County_Health_Center
+INFECTION CONTROL KIT,     ,0,47.96,Garfield_County_Health_Center
+LARYNGEAL MASK KIT,     ,0,169.71,Garfield_County_Health_Center
+LARYNGOSCOPE BLADE,     ,0,47.96,Garfield_County_Health_Center
+SHOULDER IMMOBULIZER,     ,270,90.19,Garfield_County_Health_Center
+STYLET-SMALL,     ,0,32.51,Garfield_County_Health_Center
+"WRIST SUPPORT 8"" BLACK CONTOURED",     ,0,100.75,Garfield_County_Health_Center
+IV HEPLOCK PLUG ,     ,0,3.77,Garfield_County_Health_Center
+LARYNGEAL MASK KIT-INFANT,     ,0,178.8,Garfield_County_Health_Center
+WRIST FOREARM SPLINT-LEFT LARGE,     ,0,121.89,Garfield_County_Health_Center
+KIT- PATIENT ATTACHMENT ,     ,270,68.99,Garfield_County_Health_Center
+COLOSTOMY BAG  3811,     ,270,16.67,Garfield_County_Health_Center
+CENTER POINT LOCK   3703,     ,270,32.51,Garfield_County_Health_Center
+NASAL PACKING - RHINO ROCKET,     ,270,114.5,Garfield_County_Health_Center
+"XEROFORM  1X8""",     ,270,13.95,Garfield_County_Health_Center
+"XEROFORM  5X9""",     ,270,20.38,Garfield_County_Health_Center
+"VASELINE GAUZE  3X18""",     ,270,9.05,Garfield_County_Health_Center
+"DRESSING  COMBINE  5X9""",     ,270,15.69,Garfield_County_Health_Center
+DRSG - FIBRACOL WOUND 2X2,     ,270,20.26,Garfield_County_Health_Center
+BIOPATCH,     ,270,68.99,Garfield_County_Health_Center
+BACK RAFT,     ,270,139.02,Garfield_County_Health_Center
+"COBAN  TAN  4""",     ,270,24.77,Garfield_County_Health_Center
+"STERISTRIP  1/4 X 4""",     ,270,16.67,Garfield_County_Health_Center
+PELVIS BINDER,     ,270,222,Garfield_County_Health_Center
+SAM PELVIS BINDER,     ,270,79.44,Garfield_County_Health_Center
+CAUTERY-FINE TIP,     ,0,62.58,Garfield_County_Health_Center
+CAUTERY-LOOP TIP,     ,0,62.58,Garfield_County_Health_Center
+"CO-FLEX XOLORED 2""",     ,0,16.67,Garfield_County_Health_Center
+COLLAR-PHILADELPHIA-PEDIATRIC,     ,270,115.7,Garfield_County_Health_Center
+COMBITUBE-SMALL ADULT,     ,270,247.29,Garfield_County_Health_Center
+COMBITUBE-ADULT    ,     ,270,247.29,Garfield_County_Health_Center
+TRAY - THORACENTESIS KIT,     ,270,266.59,Garfield_County_Health_Center
+CHEST DRAIN VALVE ,     ,270,372.75,Garfield_County_Health_Center
+CHEST DRAINAGE SYSTEM,     ,270,255.52,Garfield_County_Health_Center
+TRAY - CATHETER  W/FOLEY,     ,270,76.8,Garfield_County_Health_Center
+TRAY - CHEST DRAIN,     ,270,210.38,Garfield_County_Health_Center
+TRAY - IRRIGATION,     ,270,16.67,Garfield_County_Health_Center
+TRAY - INJECTION,     ,270,27.6,Garfield_County_Health_Center
+TRAY - PHEUMOTHORAX,     ,270,126.41,Garfield_County_Health_Center
+URINARY LEG BAG KIT,     ,270,85.28,Garfield_County_Health_Center
+SUTURES  MONOCRYL  Y936H,     ,270,110.28,Garfield_County_Health_Center
+TRAY - LACERATION,     ,270,45.6,Garfield_County_Health_Center
+SUTURES  SILK 4-0  683G,     ,270,45.6,Garfield_County_Health_Center
+SUTURES  ETHILON 4-0  662G,     ,270,80.28,Garfield_County_Health_Center
+SUTURES  ETHILON 4-0  1667G,     ,270,80.28,Garfield_County_Health_Center
+SUTURES  ETHILON 4-0  699G,     ,270,80.28,Garfield_County_Health_Center
+SUTURES  SILK 678G     ,     ,270,57.38,Garfield_County_Health_Center
+DEFIB-PADS ELECTRODES,     ,270,182.48,Garfield_County_Health_Center
+SUTURES  VICRYL 3-0  J683G,     ,270,95.39,Garfield_County_Health_Center
+SUTURES  VICRYL 4-0  J496G,     ,270,95.39,Garfield_County_Health_Center
+SUTURES  ETHILON 5-0  690G,     ,270,85.28,Garfield_County_Health_Center
+AQUACEL 2X2               ,     ,270,69.74,Garfield_County_Health_Center
+SUTURES  ETHILON 6-0  697G,     ,270,85.28,Garfield_County_Health_Center
+SUTURES  PROLENE 6-0  8697G,     ,270,136.2,Garfield_County_Health_Center
+SUTURES  ETHILON 3-0  663G,     ,270,45.6,Garfield_County_Health_Center
+SUTURES  PROLENE 4-0  8683G,     ,270,136.2,Garfield_County_Health_Center
+SUTURES  PROLENE 5 - 0,     ,270,131.93,Garfield_County_Health_Center
+DUO DERM 6X6          ,     ,270,96.96,Garfield_County_Health_Center
+SUTURE  CHROMIC 3-0  560B,     ,270,45.6,Garfield_County_Health_Center
+MULTI FUNCTION ELECTRODE  31319281,     ,270,188.31,Garfield_County_Health_Center
+XEROFOAM    4 X 4 ,     ,270,20.38,Garfield_County_Health_Center
+NACL IRRIGATION  250ML,     ,270,24.77,Garfield_County_Health_Center
+EYE IRRIGATION,     ,270,16.67,Garfield_County_Health_Center
+HEEL/ELBOW PROTECTOR,     ,270,149.24,Garfield_County_Health_Center
+ORTHO GLASS   PER FOOT,     ,270,43.41,Garfield_County_Health_Center
+STERILE WATER IRRIGATION 250ML,     ,270,24.77,Garfield_County_Health_Center
+IO NEEDLE KIT,     ,270,378,Garfield_County_Health_Center
+CALCULI STRAINER,     ,270,16.67,Garfield_County_Health_Center
+BED PAN H102-10,     ,270,13.95,Garfield_County_Health_Center
+CATHETER - FEMALE SPECIMEN,     ,270,33.5,Garfield_County_Health_Center
+CATHETER - DRAIN BAG,     ,270,26.63,Garfield_County_Health_Center
+SKIN STAPLER REFLEX ONE,     ,270,147.6,Garfield_County_Health_Center
+AIR STIRRUP,     ,270,123.65,Garfield_County_Health_Center
+AMBU WHITE SENSOR PADS,     ,270,32.9,Garfield_County_Health_Center
+SHOULDER IMMOBULIZER-PEDIATRIC,     ,270,90.19,Garfield_County_Health_Center
+O2 MASK-ELONGATED 1041,     ,270,9.05,Garfield_County_Health_Center
+ELASTIC KNEE CAP,     ,270,40.86,Garfield_County_Health_Center
+PNEUMOTHORAX KIT,     ,270,379.85,Garfield_County_Health_Center
+"KNEE IMMOBULIZER 28""",     ,270,263,Garfield_County_Health_Center
+"KNEE IMMOBILIZER 26""",     ,270,358.27,Garfield_County_Health_Center
+POST OP SHOE          ,     ,270,68.64,Garfield_County_Health_Center
+"KNEE IMMOBULIZER 16""  ",     ,270,164.35,Garfield_County_Health_Center
+"KNEE IMMOVILIZER 12"" 14"" 16""",     ,270,164.35,Garfield_County_Health_Center
+"KNEE IMMOBILIZER 24""",     ,270,252.65,Garfield_County_Health_Center
+PLASTER BANDAGE 2 IN X 3 YDS,     ,270,20.38,Garfield_County_Health_Center
+PLASTER BANDAGE 3IN X 3 YRDS,     ,270,20.38,Garfield_County_Health_Center
+PLASTER BANDAGE 4IN X 5 YRDS,     ,270,26.98,Garfield_County_Health_Center
+COLLAR - CERVICAL MED,     ,270,45.35,Garfield_County_Health_Center
+STYLET-FLEXISLIP    ,     ,270,24.77,Garfield_County_Health_Center
+COLLAR - PHILADELPHIA,     ,270,90.19,Garfield_County_Health_Center
+COLLAR - STIFNECK,     ,270,90.55,Garfield_County_Health_Center
+STYLET-LARGE           ,     ,270,32.51,Garfield_County_Health_Center
+COLLAR - STIFNECK  PED,     ,270,90.55,Garfield_County_Health_Center
+NEEDLE SAFTY HUBER 20GX.75,     ,270,52.18,Garfield_County_Health_Center
+IV START KIT,     ,270,12.17,Garfield_County_Health_Center
+IV HEP-LOCK PLUG,     ,270,3.77,Garfield_County_Health_Center
+IV CATH EXT SET,     ,270,32.51,Garfield_County_Health_Center
+SUTURE  PROLENE 3-0,     ,270,80.28,Garfield_County_Health_Center
+BLOOD COLLECTION SET ,     ,270,8.4,Garfield_County_Health_Center
+"NEEDLE 22GX3 1/2""  405181",     ,270,16.67,Garfield_County_Health_Center
+SKIN MARKER PEN,     ,270,20.03,Garfield_County_Health_Center
+SKIN AFFIX,     ,270,45.35,Garfield_County_Health_Center
+HUMIDIFIER DISPOSABLE ,     ,270,20.38,Garfield_County_Health_Center
+TUBE - ENDOTRACHEAL,     ,270,26.63,Garfield_County_Health_Center
+INTUBATING STYLET,     ,270,32.51,Garfield_County_Health_Center
+NASOPHARYNGEAL AIRWAY,     ,270,24.77,Garfield_County_Health_Center
+ORAL AIRWAY,     ,270,24.77,Garfield_County_Health_Center
+PEDIATRIC EMERGENCY SYSTEM,     ,270,209.33,Garfield_County_Health_Center
+SUCTION CONTAINER  ,     ,270,105.08,Garfield_County_Health_Center
+OXYGEN - NASAL CANNULA,     ,270,20.03,Garfield_County_Health_Center
+OXYGEN - NASAL CANNULA  PED,     ,270,20.03,Garfield_County_Health_Center
+O2 MASK  PED,     ,270,20.03,Garfield_County_Health_Center
+MASK - EASY SEAL CPR MASK,     ,270,67.11,Garfield_County_Health_Center
+MASK - NONREBREATHING,     ,270,26.63,Garfield_County_Health_Center
+AMP SPUR BAG W/MASK,     ,270,165.7,Garfield_County_Health_Center
+KING TUBE   SIZE 2,     ,270,193.88,Garfield_County_Health_Center
+OXYGEN - AMBUBAG  ADULT,     ,270,109.67,Garfield_County_Health_Center
+OXYGEN - AMBUBAG  PEDIATRIC,     ,270,139.02,Garfield_County_Health_Center
+OXYGEN - TUBING  25 ',     ,270,15.09,Garfield_County_Health_Center
+CPR MASK,     ,270,63.36,Garfield_County_Health_Center
+KING TUBES SZ 2.5 TO 4,     ,270,193.88,Garfield_County_Health_Center
+OXYGEN - PREFILLED HUMIDIFIER,     ,270,24.77,Garfield_County_Health_Center
+OXYGEN - DISP. HUMIDIFIER,     ,270,16.67,Garfield_County_Health_Center
+PEDIATRIC EMERGENCY KITS,     ,270,209.33,Garfield_County_Health_Center
+ELECTRODES  (5 PACK),     ,270,26.63,Garfield_County_Health_Center
+CO2 DETECTOR,     ,270,96.96,Garfield_County_Health_Center
+DEFIB PADS-MEDITRACE 1310P,     ,270,183.63,Garfield_County_Health_Center
+SPLINT - STACK,     ,0,13.95,Garfield_County_Health_Center
+EMERGENCY DISPOSABLE OB KIT,     ,270,69.74,Garfield_County_Health_Center
+SINEMET   (CARB/LEVO),     ,300,35.86,Garfield_County_Health_Center
+RENAL PANEL,     ,300,54.65,Garfield_County_Health_Center
+URIC ACID,     ,300,26.28,Garfield_County_Health_Center
+MENS HEALTH FAIR LABS,     ,300,85,Garfield_County_Health_Center
+WOMENS HEALTH FAIR LABS,     ,300,65,Garfield_County_Health_Center
+CARDIAC HEALTH FAIR,     ,300,65,Garfield_County_Health_Center
+TAKE HOME DRUGS,     ,250,24,Garfield_County_Health_Center
+INJ - TDAP ADULT,     ,259,35.55,Garfield_County_Health_Center
+IV - .45% NACL (1/2 NS) 1000ML,     ,258,62.43,Garfield_County_Health_Center
+INJ - NITROGLYCERINE 50MG/10ML,     ,259,61.55,Garfield_County_Health_Center
+INJ - ZITHROMAX 500MG,     ,259,35.55,Garfield_County_Health_Center
+INJ - TNKASE,     ,259,9120,Garfield_County_Health_Center
+INJ - FENTANYL CITRATE,     ,636,28.35,Garfield_County_Health_Center
+INJ - CEFAZOLIN    (ANCEF),     ,636,35.55,Garfield_County_Health_Center
+TAB - FAMOTODINE 20 MG,     ,250,3.75,Garfield_County_Health_Center
+TAB - ATENOLOL 50 MG,     ,250,4.7,Garfield_County_Health_Center
+TAB - RANTIDINE 150 MG,     ,250,7.4,Garfield_County_Health_Center
+TAB - TYLENOL #3 ,     ,250,4.7,Garfield_County_Health_Center
+TAB - AMOXICILLIN/CLAVULANATE 875M,     ,250,12.35,Garfield_County_Health_Center
+TAB - CYCLOBENAPRINE HC1 10 MG ,     ,250,8,Garfield_County_Health_Center
+TAB - TRAMADOL 50 MG ,     ,250,5.75,Garfield_County_Health_Center
+TAB - ZANTAC 150MG,     ,250,14.93,Garfield_County_Health_Center
+OTH - MAGNESIUM CITRATE 10 OZ,     ,250,35.55,Garfield_County_Health_Center
+TAB - CIPROFLOXACIN 500MG,     ,250,20.4,Garfield_County_Health_Center
+TAB - CEPHALEXIN 500MG,     ,250,7.4,Garfield_County_Health_Center
+TAB - CLINDAMYCIN 300 MG,     ,250,8.6,Garfield_County_Health_Center
+TAB - MECLIZINE 25MG,     ,250,4.7,Garfield_County_Health_Center
+TAB - METRONIDAZOLE 250MG (FLAGYL),     ,250,5.75,Garfield_County_Health_Center
+TAB - HYDROCODONE APAP 5/500   ,     ,250,4.7,Garfield_County_Health_Center
+TAB - METOPEROLOL(LOPRESSOR) 50MG,     ,250,4.7,Garfield_County_Health_Center
+TAB - METOCLOPROMIDE 10 MG ,     ,250,4.7,Garfield_County_Health_Center
+TAB - ERYTHROCIN 250MG,     ,250,7.4,Garfield_County_Health_Center
+TAB - DOXYCYCLINE 100MG,     ,250,7.4,Garfield_County_Health_Center
+SUSP - AZITHROMYCIN 200MG/5 ML,     ,250,37.55,Garfield_County_Health_Center
+SUSP - AMOXICILLIN/CLAULANATE 400M,     ,250,35.55,Garfield_County_Health_Center
+TAB - CLARITHROMYCIN 500MG,     ,250,13.7,Garfield_County_Health_Center
+TAB - NEXIUM 22.3 MG,     ,250,0,Garfield_County_Health_Center
+TAB - AZITHROMYCIN   (Z PACK),     ,250,30,Garfield_County_Health_Center
+TAB - LABETALOL 100 MG,     ,250,8.75,Garfield_County_Health_Center
+TAB - CEFPROZIL 250 MG  (CEFZIL),     ,250,7.4,Garfield_County_Health_Center
+OTH - TOLORAMYCIN & DEXAMETHASONE,     ,250,35.55,Garfield_County_Health_Center
+TAB - DIPHENOXYLATE HC1 & ATROPINE,     ,250,4.7,Garfield_County_Health_Center
+OTH - MOM        ,     ,250,5.75,Garfield_County_Health_Center
+TAB - SULFAMETHOXAZOLE/TRIMETHOPRI,     ,250,10.81,Garfield_County_Health_Center
+TAB - AMLODIPINE 5 MG,     ,250,7.4,Garfield_County_Health_Center
+TAB - AMOXICILLIN 875 MG,     ,250,4.7,Garfield_County_Health_Center
+OTH - GENTAMICIN SULFATE OPTIC SOL,     ,250,58.89,Garfield_County_Health_Center
+OTH - TIMOLOL MALEATE 0.5% OPHTH,     ,250,35.55,Garfield_County_Health_Center
+TAB - METOLAZONE 2.5 MG,     ,250,7.4,Garfield_County_Health_Center
+TAB - BANOPHEN             ,     ,250,4.7,Garfield_County_Health_Center
+TAB - POTASSIUM CHLORIDE 10MEQ,     ,250,7.4,Garfield_County_Health_Center
+SUSP - SPS     (KAYEXALATE),     ,250,8.6,Garfield_County_Health_Center
+TAB - PERCOCET (OXYCODONE) 325 MG,     ,250,4.7,Garfield_County_Health_Center
+OTH - ERYTHROCIN OPTHALMIC OINTMEN,     ,250,57,Garfield_County_Health_Center
+TAB - TAMIFLU DOSE PACK,     ,250,274.15,Garfield_County_Health_Center
+TAB - INDOMETHACIN 25 MG,     ,250,4.8,Garfield_County_Health_Center
+SUSP - AMOXICILLIN 400MG/5ML,     ,259,35.55,Garfield_County_Health_Center
+LIQ - XYLOCAINE/LIDOCAINE VISCOUS,     ,259,22.55,Garfield_County_Health_Center
+LIQ - ANTACID,     ,259,1.76,Garfield_County_Health_Center
+SUSP - AMOXICILLIN 250MG/5ML,     ,250,28.97,Garfield_County_Health_Center
+TAB - LOPERAMIDE 2 MG,     ,250,4.7,Garfield_County_Health_Center
+ENAMA - FLEET,     ,259,20.03,Garfield_County_Health_Center
+OTH - EYE WASH,     ,250,35.55,Garfield_County_Health_Center
+SUPP - ACETAMENAPHEN 650 MG,     ,259,8,Garfield_County_Health_Center
+SUPP - TYLENOL 120 MG,     ,250,4.58,Garfield_County_Health_Center
+TAB - NITROFLURANTOIN 100 MG ,     ,250,8,Garfield_County_Health_Center
+OTH - NEOSYNEPHRINE NASAL SPRAY,     ,259,16.55,Garfield_County_Health_Center
+OTH - SILVADENE CREME 50 MG,     ,259,36.35,Garfield_County_Health_Center
+OTH - ANTIPYRINE&BENZOCAINE OTIC ,     ,259,38.82,Garfield_County_Health_Center
+SUPP - BISAC 10MG    (BISACODYL),     ,259,35.55,Garfield_County_Health_Center
+OTH - CHARCOAL ACTIDOSE AQUA 25 GM,     ,259,42.5,Garfield_County_Health_Center
+OTH - MAGNESIUM CITRATE 10 OZ,     ,259,43.33,Garfield_County_Health_Center
+OTH - NITROGLYCERIN OINTMENT,     ,259,60.55,Garfield_County_Health_Center
+OTH - NEOMYCIN&POLYMIX OPTH SOL,     ,259,81.18,Garfield_County_Health_Center
+OTH - TRIPLE ANTIBIOTIC OINT 1/2OZ,     ,259,6.18,Garfield_County_Health_Center
+INH SOL - RACEPINEPHRINE 2.25%,     ,259,7.2,Garfield_County_Health_Center
+OTH - ATROPINE CARE 1% OPTH SOL,     ,250,35.55,Garfield_County_Health_Center
+INJ - METOPROLOL 5MG,     ,259,0,Garfield_County_Health_Center
+OTH - GLUTOSE 15 35.5MG/TUBE ,     ,250,0,Garfield_County_Health_Center
+TAB - CEFDINIR 300MG,     ,250,7.8,Garfield_County_Health_Center
+SUSP - CHILDRENS MAPAP,     ,250,0,Garfield_County_Health_Center
+INJ -  PITOCIN 10 UNITS PER ML -1M,     ,259,35.55,Garfield_County_Health_Center
+INJ - AMIDATE 20MG/10ML,     ,259,63.95,Garfield_County_Health_Center
+INJ - TRANEXAMIC ACID 1000MG/10ML,     ,259,0,Garfield_County_Health_Center
+INJ - PPD:MANTOUX,     ,259,35.55,Garfield_County_Health_Center
+OTH - FLUROESCIN,     ,250,35.55,Garfield_County_Health_Center
+IV - .9% NACL (NS) 100ML,     ,258,35.55,Garfield_County_Health_Center
+TAB - LISINOPRIL 5 MG,     ,250,5.75,Garfield_County_Health_Center
+TAB - POTASSIUM CHLORIDE,     ,250,4.7,Garfield_County_Health_Center
+TAB - POTASSIUM CHLORIDE 10MEQTAB,     ,250,4.7,Garfield_County_Health_Center
+SUSP -  CEFPROZIL 125MG/5ML,     ,250,30,Garfield_County_Health_Center
+OTH - CHILDRENS ALLERGY RELIEF ,     ,250,0,Garfield_County_Health_Center
+SUSP - CEFDINIR USP 125MG/5ML,     ,250,106.8,Garfield_County_Health_Center
+INJ - ENALAPRILAT  1.24MG,     ,259,35.55,Garfield_County_Health_Center
+INJ - FLUMAZENIL 0.5 MG/5 ML      ,     ,259,208.17,Garfield_County_Health_Center
+INJ - METRONIDAZOLE 500MG/100ML ,     ,259,35.55,Garfield_County_Health_Center
+INJ - LIDOCAINE 2% VISCOUS     ,     ,259,102.45,Garfield_County_Health_Center
+INJ - XYLOCAINE              ,     ,259,35.55,Garfield_County_Health_Center
+INJ - SODIUM BICARBONATE 4.2% 5MEQ,     ,259,35.55,Garfield_County_Health_Center
+INJ - VERAPAMIL 2.5 MG/ML,     ,259,35.55,Garfield_County_Health_Center
+INJ - SOLUMEDROL125MG/2ML,     ,259,35.55,Garfield_County_Health_Center
+TAB - NITRO STAT 0.4 MG ,     ,250,7.4,Garfield_County_Health_Center
+INJ - LOPRESSOR 5MG/5ML ,     ,259,0,Garfield_County_Health_Center
+INJ - CA CHLORIDE 10% 100MG/ML,     ,259,35.55,Garfield_County_Health_Center
+INJ - LABETALOL 100 MG/20ML,     ,259,35.55,Garfield_County_Health_Center
+INJ - DEXTROSE 50%,     ,259,35.55,Garfield_County_Health_Center
+INJ - PROTONIX 40MG,     ,259,35.55,Garfield_County_Health_Center
+SUSP - ACETAMINOPHEN 80 MG/0.8ML,     ,250,35.55,Garfield_County_Health_Center
+OTH - TRIAMCINOLONE CREAM 0.1 %,     ,250,76.55,Garfield_County_Health_Center
+TAB - AMOXICILLIN/CLAVULANATE 500M,     ,250,4.7,Garfield_County_Health_Center
+TAB - ACETAMINOPHEN 500 MG,     ,250,4.7,Garfield_County_Health_Center
+INJ - FAMOTIDINE 20MG/2ML,     ,259,35.55,Garfield_County_Health_Center
+INJ - SODIUM BICARBONATE 8.4%,     ,259,35.55,Garfield_County_Health_Center
+OXYGEN SETUP,     ,270,23.76,Garfield_County_Health_Center
+OXYGEN 0-5L/M ,     ,270,21.12,Garfield_County_Health_Center
+OXYGEN 6-10L/M,     ,270,31.68,Garfield_County_Health_Center
+OXYGEN 11 OR GREATER L/M,     ,270,63.72,Garfield_County_Health_Center
+OXYGEN BY CONCENTRATOR UP TO 12HRS,     ,270,80.88,Garfield_County_Health_Center
+RESPIRATORY  OTHER,     ,270,0,Garfield_County_Health_Center
+MEDICAL RECORDS FEE,     ,0,0,Garfield_County_Health_Center
