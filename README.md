@@ -5,7 +5,7 @@ Medical Transparency
 Members:\
 Luke -> luke5a\
 Philip -> codephilip\
-Emma -> \ Emma
+Emma -> Emma\
 Kathryn -> solovivrus\
 Michael -> mroduin44\
 Mason -> mwilliamson023
