@@ -15,11 +15,11 @@ function HomePageContent() {
           <img
             src={Hank}
             alt="Hank"
-            style={{ textAlign: "center", height: "100%", width: "100%" }}
+            style={{ textAlign: "center", height: "100%", width: "100%", marginLeft:"-50px", marginTop:"35px",}}
           />
         </div>
       </div>
-      <div className="break" style={{ left: "100px", top: "900px" }}></div>
+      <div className="break" style={{ left: "5%", top: "900px" }}></div>
       <div className="our-story">
         <div>
           <h1
@@ -27,33 +27,13 @@ function HomePageContent() {
               fontFamily: "BebasNeue",
               padding: "10px",
               fontSize: "100px",
+              color:"#234473",
               textAlign: "center",
             }}
           >
             OUR STORY
           </h1>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-            pharetra sollicitudin orem ac ultricies. Vestibulum eget mollis
-            dolor. Donec finibus mi et quam condimentum efficitur. Nam in
-            efficitur quam. Sed bibendum nunc odio, vitae iaculis nisl interdum
-            quis. Morbi sollicitudin molestie nulla non lobortis. Phasellus
-            suscipit consequat condimentum. Aliquam nibh tortor, molestie eu
-            eleifend in, feugiat scelerisque erat. Nam vulputate lectus in
-            tortor sollicitudin rhoncus. Etiam et sem eu ipsum ultrices ornare
-            quis sit amet risus. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Vivamus pharetra sollicitudin orem ac ultricies.
-            Vestibulum eget mollis dolor. Donec finibus mi et quam condimentum
-            efficitur. Nam in efficitur quam. Sed bibendum nunc odio, vitae
-            iaculis nisl interdum quis. Morbi sollicitudin molestie nulla non
-            lobortis. Phasellus suscipit consequat condimentum. Aliquam nibh
-            tortor, molestie eu eleifend in, feugiat scelerisque erat. Nam
-            vulputate lectus in tortor sollicitudin rhoncus. Etiam et sem eu
-            ipsum ultrices ornare quis sit amet risus.
-          </p>
 
-          <br />
-          <br />
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
             pharetra sollicitudin orem ac ultricies. Vestibulum eget mollis
@@ -75,7 +55,7 @@ function HomePageContent() {
               display: "flex",
               padding: "50px",
               height: "100%",
-              width: "100%",
+              width: "50%",
             }}
           />
           <div className="our-story-side-quote">
@@ -83,8 +63,9 @@ function HomePageContent() {
           </div>
         </div>
       </div>
+    
       <div>
-        <Footer />
+        <Footer/>
       </div>
     </div>
   );

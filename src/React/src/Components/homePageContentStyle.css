@@ -1,7 +1,7 @@
 .home-page-content
 {
     width: 100%;
-    background-color: white;
+    background-color: #E5D9CD;
 }
 
 .hpc-side-column
@@ -12,7 +12,7 @@
     left: 23px;
     top: 145px;
     padding-left: 80px;
-    background-color: #E5E5E5;
+    background-color: #E5D9CD;
 }
 
 .hp-main-message{
@@ -23,6 +23,7 @@
     left: 45px;
     top: 246px;
     font-family: 'BebasNeue';
+    color: #234473;
 }
 
 .hpc-main-pic{
@@ -31,6 +32,13 @@
     height: 694px;
     /*width: 66.66666%;*/
 
+}
+
+.break{
+    position: absolute;
+    width: 90%;
+    height: 0px;
+    border: 2px solid #FB8500;
 }
 
 .our-story{
@@ -46,17 +54,17 @@
 .our-story-side-quote{
     font-family: 'BebasNeue';
     width: 65%;
-    font-size: 100px;
+    font-size: 75px;
     font-weight: bolder;
     align-items: center;
     padding: 100px;
+    color:#234473;
+    margin-top: -30px;
 }
 
 .our-story-image{
     width: 324px;
     height: 420px;
-    
-
-    background-color: #E5E5E5;
+    background-color: #E5D9CD;
 }
 

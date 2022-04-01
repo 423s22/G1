@@ -1,13 +1,17 @@
 import React, { useState } from "react";
 import "./headerStyle.css";
-import HomePageContent from "../Components/homepagecontent";
-import AboutUs from "../Components/aboutus";
-import Footer from "../Components/footer";
 import medIcon from "../images/icon.png";
 import searchIcon from "../images/searchIcon.png";
+import ServiceMenu from "./servicemenu";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
+
+
+
 const Header = () => {
+  const [visibility, setVisibility] = useState(false);
+
+
   return (
     <div className="header">
       <div className="mainIcon">
@@ -18,30 +22,45 @@ const Header = () => {
         />
       </div>
 
+
       <div className="clickables">
         <ul className="nav">
           <li>
-            <Link to="/">Home</Link>
+            <Link className="interaction" to="/">Home</Link>
           </li>
           <li>
-            <Link to="/AboutUs">The Team</Link>
+            <Link className="interaction" to="/AboutUs">The Team</Link>
           </li>
           <li>
-            <Link to="/ProductPage">Insurance</Link>
-          </li>
-          <li>
-            <Link to="/ProductPage">Your Location</Link>
-          </li>
-          {/* <li>Insurance</li>
-                    <li>Your Location</li> */}
+            <button className="interaction" 
+            onClick={() => setVisibility(!visibility)}
+   
+            
+          
+            style={{
+              border:"none",
+              fontSize:"20px",
+              fontFamily:"inter",
+              backgroundColor:"#E5D9CD",
+              
+            }}>
+        Services</button>
+      
+          </li> 
         </ul>
-      </div>
-
-      <div className="searchBar">
-        <div className="searchArea">
-          <img src={searchIcon} alt="Search Bar Icon" />
+         <div>
+              {
+            visibility?<ServiceMenu/>:null
+          }
         </div>
       </div>
+
+        <img 
+        className="SearchArea"
+        src={searchIcon}
+         width={60}
+         height={60}
+         alt="Search Bar Icon" />
     </div>
   );
 };
