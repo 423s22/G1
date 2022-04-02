@@ -1,5 +1,7 @@
 # G1
 
+Dev Branch
+
 Medical Transparency
 
 Members:\
@@ -87,7 +89,8 @@ Product Backlog, Spring Backlog and Burnout Chart: https://docs.google.com/sprea
     Our website will behave as a Single Page Application (SPA).
     The way in which the user interacts with the web app
 
-# React Documentation 
+# React Documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
