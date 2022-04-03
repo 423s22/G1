@@ -5,6 +5,7 @@ import styles from "../../styles/TeamList.module.css";
 
 export default function Home({ teamList }) {
   return (
+    <h1>Team Page</h1>
     <div className={styles.container}>
       <TeamList teamList={teamList} />
     </div>
