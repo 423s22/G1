@@ -1,7 +1,5 @@
 # G1
 
-# Develop
-
 Medical Transparency
 
 Members:\
