@@ -5,7 +5,10 @@ import styles from "../styles/Home.module.css";
 
 export default function Home({ productList }) {
   return (
-    <h1>Landing Page</h1>
+    <h1>Landing Page
+    here are some more changes
+    to stage</h1>
+    <p>some more</p>
     <div className={styles.container}>
       <ProductList productList={productList} />
     </div>
