@@ -1,5 +1,7 @@
 import Head from "next/head";
 import Header from "./Header";
+import Footer from "./Footer";
+import React from "react";
 
 const Layout = ({ children }) => (
   <>
@@ -8,6 +10,7 @@ const Layout = ({ children }) => (
     </Head>
     <Header />
     {children}
+    <Footer/>
   </>
 );
 
