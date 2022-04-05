@@ -40,8 +40,8 @@ Product Backlog, Spring Backlog and Burnout Chart: https://docs.google.com/sprea
     Setup React:
     1. Install dependencies (see package-lock.json): npm install
     2. Build: npm run build
-    3. Run Frontend on localhost: npm run start
-    4. Visit localhost to see changes.
+    3. Run application on localhost: npm run start
+    4. Visit localhost:3000 (default).
 
     Set up Server:
 
