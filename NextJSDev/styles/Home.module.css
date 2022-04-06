@@ -15,12 +15,12 @@
 
 .hpMainMessage{
     text-align: left;
-    font-size: 60px;
+    font-size: 80px;
     width: 220px;
     height: 624px;
     left: 45px;
     top: 246px;
-    font-family: 'BebasNeue';
+    font-family: 'Bebas Neue';
     color: #234473;
 }
 
@@ -51,7 +51,7 @@
 }
 
 .ourStorySideQuote{
-    font-family: 'BebasNeue';
+    font-family: 'Bebas Neue';
     width: 65%;
     font-size: 75px;
     font-weight: bolder;

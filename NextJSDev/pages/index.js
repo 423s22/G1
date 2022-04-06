@@ -1,6 +1,7 @@
 import axios from "axios";
 import Head from "next/head";
 import Image from 'next/image'
+import Layout from "../components/Layout";
 import headerBackground from "../public/img/headerBackground.jpg";
 import styles from "../styles/Home.module.css";
 
@@ -22,7 +23,7 @@ export default function Home({ productList }) {
       <div className={styles.ourStory}>
         <h1
           style={{
-            fontFamily: "BebasNeue",
+            fontFamily: 'Bebas Neue',
             padding: "10px",
             fontSize: "100px",
             color:"#234473",
