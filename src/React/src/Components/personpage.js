@@ -8,6 +8,7 @@ import telephone from '../images/telephone.png'
 
 function PersonPage(){
     return(
+        <div>
         <div className='overall-size'>
             <div className='person-page-pic'>
                 <img src={profilePic} alt='profile for person page' style={{height:'500px', maxWidth: '100%'}}/>
@@ -28,7 +29,9 @@ function PersonPage(){
                     <h3>  <img src={medIcon} alt='Med Kit Icon'/>  WebPagelink.com</h3>
                     <h3>  <img src={telephone} alt='Telephone Icon'/>  (123)Tele-Phone</h3>
                 </div>
-            </div> 
+            </div>
+        </div>
+        <Footer/>
         </div>
     )
 }

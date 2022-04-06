@@ -1,6 +1,6 @@
 .footer{
     display: flex;
-    background-color: white;
+    background-color:#E5D9CD;
     font-style: italic;
     padding: 30px;
     justify-content: center;
@@ -10,6 +10,7 @@ ul.navBottom{
     padding-left: 0;
     text-align: center;
     font-size: 20px;
+
 }
 ul.navBottom > li {
     display: inline-block;
@@ -25,9 +26,6 @@ ul.navBottom >li:hover{
     position: absolute;
     width: 1300px;
     height: 0px;
-
-
-
-    border: 2px solid #000000;
+    border: 2px solid #FB8500;
 }
 

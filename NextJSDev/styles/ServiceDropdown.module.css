@@ -1,0 +1,20 @@
+.menuStyle{
+    background-color:#FB8500;
+    border-radius: 10px;
+    text-decoration: none;
+    justify-content: center;
+    padding-left: 5%;
+
+}
+
+.SMinteraction > a{
+    text-size-adjust: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+.SMinteraction >a:hover{
+    color:#FB8500;
+    background-color: white;
+    border-spacing: 2px;
+}

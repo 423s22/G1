@@ -5,10 +5,10 @@ import directory_controller as directory
 
 def collect_scannable_files():
     acceptable_file_extensions = [".csv"]
-    return scanner.remove_invalid_file_types(scanner.retrieve_files("./data_files/great_initial_files_for_philip/*.*"), acceptable_file_extensions)
+    return scanner.remove_invalid_file_types(scanner.retrieve_files("./great_initial_files_for_philip/*.*"), acceptable_file_extensions)
     
 
-PATH = './data_files/great_initial_files_for_philip/'
+PATH = './great_initial_files_for_philip/'
 
 documents = collect_scannable_files()
 
@@ -22,9 +22,9 @@ for files in documents:
 
     thisisjson_dict = json.loads(thisisjson)
 
-    directory.generate_directory('data_files/json_files')
+    directory.generate_directory('json_files')
 
-    with open('./data_files/json_files/' + hospital + '.json', 'w') as json_file:
+    with open('./json_files/' + hospital + '.json', 'w') as json_file:
         json.dump(thisisjson_dict, json_file, indent=4, sort_keys=True)
     
     print("Completed")

@@ -5,8 +5,6 @@ import directory_controller as directory
 def collect_scannable_files():
     acceptable_file_extensions = [".xlsx", ".csv"]
     return scanner.remove_invalid_file_types(scanner.retrieve_files("./data_files/machine_readable_files/*.*"), acceptable_file_extensions)
-    
-directory.generate_directory('data_files/machine_readable_files')
 
 PATH = './data_files/machine_readable_files/'
 
