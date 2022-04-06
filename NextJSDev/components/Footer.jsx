@@ -11,7 +11,7 @@ const Footer = () =>{
 
     <nav className={styles.navBottom}>
 
-        <Link href=""><a>Contact Us</a></Link>
+        <Link href="./ContactUs"><a>Contact Us</a></Link>
         <Link href=""><a>Languages</a></Link>
         <Link href=""><a>Terms</a></Link>
         <Link href="./UserDoc"><a>User Doc</a></Link>

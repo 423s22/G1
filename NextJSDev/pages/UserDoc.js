@@ -1,16 +1,17 @@
 import React from "react";
-import Footer from "../components/Footer";
+import styles from "../styles/UserDoc.module.css"
 
 
 function UserDoc() {
   return (
     <div>
-        <div>
+        <div className={styles.container}>
             <h1
             style={{
                 fontFamily: "BebasNeue",
                 padding: "10px",
                 fontSize: "100px",
+                color:"#234473",
                 textAlign: "center",
             }}
             >
