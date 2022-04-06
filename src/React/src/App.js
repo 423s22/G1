@@ -10,28 +10,6 @@ const App = () => {
   return (
     <div>
       <Header />
-      {/* <nav>
-        <button onClick={() => setScreen("HomePageContent")}>Home</button>
-        <button onClick={() => setScreen("AboutUs")}>About Us</button>
-        <button onClick={() => setScreen("PersonPage")}>Person Details</button>
-        <button onClick={() => setScreen("ProductPage")}>Products</button>
-        <button onClick={() => setScreen("ProductPageSpecific")}>ProductsPageSpecific</button>
-
-
-      </nav>
-      { screen === "HomePageContent" ?
-      <HomePageContent/>
-      :  screen === "AboutUs" ?
-      <AboutUs/>
-      :  screen === "PersonPage" ?
-      <PersonPage/>
-      :  screen === "ProductPage" ?
-      <ProductPage/>
-      :  screen === "AboutUs" ?
-      <AboutUs/>
-      :  screen === "ProductPageSpecific" ?
-      <ProductPageSpecific/>
-      : null } */}
     </div>
   );
 };

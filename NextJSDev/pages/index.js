@@ -1,26 +1,29 @@
 import axios from "axios";
+import Head from "next/head";
+import Image from 'next/image'
+import Layout from "../components/Layout";
 import headerBackground from "../public/img/headerBackground.jpg";
 import styles from "../styles/Home.module.css";
 
 export default function Home({ productList }) {
   return (
     <div className={styles.HomePageContent}>
-      <div className={styles.hpcSideColumn}>
-        <p className={styles.hpMainMessage}>WE WANT YOU TO SEE WHAT WE SEE.</p>
-      </div>
-      <div className={styles.hpcMainPic}>
-        <img
-          src={headerBackground}
-          alt="Hero"
-          style={{ textAlign: "center", height: "100%", width: "100%", marginLeft:"-50px", marginTop:"35px",}}
+      <div style={{ display: "flex" }}>
+        <div className={styles.hpcSideColumn}>
+          <p className={styles.hpMainMessage}>WE WANT YOU TO SEE WHAT WE SEE.</p>
+        </div>
+        <Image
+            src={headerBackground}
+            alt="Hero"
+            width = {1005}
+            height = {698}
         />
       </div>
-    <div className={styles.break}></div>
-    <div className={styles.ourStory}>
-      <div>
+      <div className={styles.break}></div>
+      <div className={styles.ourStory}>
         <h1
           style={{
-            fontFamily: "BebasNeue",
+            fontFamily: 'Bebas Neue',
             padding: "10px",
             fontSize: "100px",
             color:"#234473",
@@ -43,22 +46,18 @@ export default function Home({ productList }) {
         </p>
       </div>
       <div style={{ display: "flex" }}>
-        <img
-          src="../public/img/headerBackground.jpg"
-          alt="Hero"
-          style={{
-            textAlign: "center",
-            display: "flex",
-            padding: "50px",
-            height: "100%",
-            width: "50%",
-          }}
-        />
+        <div className={styles.ourStoryImage}>
+          <Image
+            src={headerBackground}
+            alt="Hero"
+            width= {600}
+            height= {420}
+          />
+        </div>
         <div className={styles.ourStorySideQuote}>
           <p>"LOREM IPSUM DOLOR SIT AMET"</p>
         </div>
       </div>
-    </div>
   </div>
   );
 }
