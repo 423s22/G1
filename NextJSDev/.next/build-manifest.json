@@ -25,6 +25,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/ContactUs.js"
     ],
+    "/UserDoc": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/UserDoc.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

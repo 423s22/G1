@@ -20,11 +20,12 @@ nav.navBottom > a {
 }
 nav.navBottom > a:hover{
     text-decoration: underline;
+    color: #FB8500;
 }
 
 .break{
     position: absolute;
     width: 1300px;
     height: 0px;
-    border: 2px solid #FB8500;
+    border: 1px solid #FB8500;
 }
