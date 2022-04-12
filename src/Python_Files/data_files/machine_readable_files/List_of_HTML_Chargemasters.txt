@@ -1,0 +1,36 @@
+1.
+Bozeman Deaconess Hospital:
+https://search.hospitalpriceindex.com/hpi2/hospital/bozemanhealthdeaconesshospital/8102or?page=1
+
+2.
+Big Sky Medical Center:
+https://search.hospitalpriceindex.com/hpi2/hospital/bozemanhealthbigskymedicalcenter/8103or?page=1
+
+3. 
+Mccone County Health Center:
+https://mcconehealth.org/services-view/mccone-county-health-center-chargemaster/
+
+4.
+Rosebud Health Care Center Hospital:
+https://www.rosebudhcc.org/master-list-of-charges/
+
+
+
+
+
+
+
+
+
+
+
+Extra Information:
+
+Marcus Daly Hospital:
+https://search.hospitalpriceindex.com/hpi2/hospital/bozemanhealthbigskymedicalcenter/8103or?page=1
+(Also in repo is a .json file of the same information)
+
+Dahl Memorial Healthcare Association:
+https://dahlmemorial.org/fee-schedule-charge-master/
+(Also in repo is a .pdf file of the same information)
+
