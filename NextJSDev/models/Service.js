@@ -1,10 +1,15 @@
 import mongoose from "mongoose";
 
 const ServiceSchema = new mongoose.Schema({
-  type: {
+  procedure: {
     type: String,
     required: true,
     maxlength: 60,
+  },
+  code:{
+    type: String,
+    required: true,
+    maxlength: 30,
   },
   desc: {
     type: String,

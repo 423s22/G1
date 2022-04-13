@@ -20,10 +20,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
-    "/ContactUs": [
+    "/Radiology": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/ContactUs.js"
+      "static/chunks/pages/Radiology.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
@@ -34,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
-    ],
-    "/team": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/team.js"
     ]
   },
   "ampFirstPages": []

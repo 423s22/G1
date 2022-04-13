@@ -17,6 +17,7 @@ export default function Home({ productList }) {
             alt="Hero"
             width = {1005}
             height = {698}
+            style={{position:"sticky"}}
         />
       </div>
       <div className={styles.break}></div>
