@@ -20,14 +20,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
-<<<<<<< HEAD
-    "/ContactUs": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/ContactUs.js"
-    ],
-=======
->>>>>>> test
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
