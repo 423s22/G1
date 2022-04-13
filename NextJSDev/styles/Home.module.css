@@ -58,11 +58,11 @@
     align-items: center;
     padding: 100px;
     color:#234473;
-    margin-top: -30px;
+    margin-top: 100px;
+    
 }
 
 .ourStoryImage{
     text-align: center;
     display: flex;
-    padding: 50px;
 }
