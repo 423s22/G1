@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from "../styles/Radiology.module.css";
+import Disclaimer from '../components/Disclamer';
 import Link from "next/link";
 
 
@@ -8,6 +9,7 @@ function Radiology(){
     return(
         <div className={styles.overallBackgroundColor}
         style={{fontFamily: "BebasNeue",}}>
+            <Disclaimer/>
         <div className='productCat'>
             <h1 style={{fontSize: '80px', textAlign: 'center'}}>RADIOLOGY</h1>
         </div>
