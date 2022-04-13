@@ -1,8 +1,8 @@
 import axios from "axios";
-import Head from "next/head";
 import Image from 'next/image'
 import Layout from "../components/Layout";
-import headerBackground from "../public/img/headerBackground.jpg";
+import doctorimg1 from "../public/img/doctorimg1.png";
+import doctorimg2 from "../public/img/doctorimg2.png";
 import styles from "../styles/Home.module.css";
 
 export default function Home({ productList }) {
@@ -13,7 +13,7 @@ export default function Home({ productList }) {
           <p className={styles.hpMainMessage}>WE WANT YOU TO SEE WHAT WE SEE.</p>
         </div>
         <Image
-            src={headerBackground}
+            src={doctorimg1}
             alt="Hero"
             width = {1005}
             height = {698}
@@ -43,15 +43,21 @@ export default function Home({ productList }) {
           eleifend in, feugiat scelerisque erat. Nam vulputate lectus in
           tortor sollicitudin rhoncus. Etiam et sem eu ipsum ultrices ornare
           quis sit amet risus.
+          
+          <br />
+          <br />
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         </p>
       </div>
       <div style={{ display: "flex" }}>
         <div className={styles.ourStoryImage}>
           <Image
-            src={headerBackground}
+            src={doctorimg2}
             alt="Hero"
             width= {600}
-            height= {420}
+            height= {1000}
           />
         </div>
         <div className={styles.ourStorySideQuote}>
