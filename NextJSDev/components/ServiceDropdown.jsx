@@ -7,14 +7,13 @@ const ServiceDropdown = () => {
      <div>
         <div className={styles.menuStyle}>
           <div className={styles.SMinteraction}>
-              <br/>
                 <Link href=""><a>Allergy Care</a></Link>
                 <br/>
                 <Link href=""><a>Dermatology</a></Link>
                 <br/>
                 <Link href=""><a>Neurology</a></Link>
                 <br/>
-                <Link href="./UserDoc"><a>Radiology</a></Link>
+                <Link href="./Radiology"><a>Radiology</a></Link>
                 <br/>
                 <Link href=""><a>Women's Care</a></Link>
                 <br/>

@@ -6,6 +6,11 @@ const ProductSchema = new mongoose.Schema({
     required: true,
     maxlength: 60,
   },
+  medcode: {
+    type: String,
+    required: true,
+    maxlength: 50,
+  },
   desc: {
     type: String,
     required: true,

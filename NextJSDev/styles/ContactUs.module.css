@@ -1,4 +1,81 @@
 .container{
 background-color: #E5D9CD;
-padding: 80px;
+padding-top: 5%;
+padding-left: 5%;
+padding-right: 5%;
+}
+
+.maincomp{
+    width: 90%;
+    padding: 2%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: #FB8500;
+    color: white;
+    border-radius: 10px;
+}
+
+.innercomp{
+    margin-top: 2%;
+    width: 90%;
+    margin-left: 5%;
+    background-color: white;
+    padding-top: 10%;
+    padding-bottom: 3%;
+    border-radius: 10px;
+}
+
+
+.name{
+    width: 42.5%;
+    color:black;
+    background-color: rgba(27, 27, 27, 0.125);
+    padding: 2%;
+    border-bottom-width: 2px;
+    border-color: rgba(27, 27, 27, 0.250);
+
+}
+
+.email{
+    margin-top: 5%;
+    color:black;
+    width: 90%;
+    background-color: rgba(27, 27, 27, 0.125);
+    padding: 2%;
+    border-bottom-width: 2px;
+    border-color: rgba(27, 27, 27, 0.250);
+}
+
+.message{
+    margin-top: 5%;
+    color:black;
+    height:100px;
+    width: 90%;
+    background-color: rgba(27, 27, 27, 0.1250);
+    padding: 2%;
+    border-bottom-width: 2px;
+    border-color: rgba(27, 27, 27, 0.250);
+}
+
+.submit{
+    margin-top: 5%;
+    color: #FB8500;
+    width: 90%;
+    padding: 2%;
+    border-radius: 10px;
+    border-color:  #FB8500;
+    border-width: 1px;
+}
+
+.innercomp > input:hover{
+    background-color: #fb860075;
+    border-bottom-width: 2px;
+    border-color: #fb860075 ;
+}
+
+.innercomp > button:hover{
+    height: fixed;
+    color: white;
+    background-color: #FB8500;
+    font-weight: bolder;
 }
