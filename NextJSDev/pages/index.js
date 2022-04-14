@@ -14,13 +14,7 @@ export default function Home({ productList }) {
             WE WANT YOU TO SEE WHAT WE SEE.
           </p>
         </div>
-        <Image
-          src={doctorimg1}
-          alt="Hero"
-          width={1005}
-          height={698}
-          style={{ position: "sticky" }}
-        />
+        <Image src={doctorimg1} alt="Hero" width={1005} height={698} />
       </div>
       <div className={styles.break}></div>
       <div className={styles.ourStory}>
@@ -65,7 +59,8 @@ export default function Home({ productList }) {
 
 export const getServerSideProps = async () => {
   const res = await axios.get(
-    "https://cranky-banach-68238c.netlify.app/api/products"
+    "http://localhost:3000/api/products"
+    //"https://cranky-banach-68238c.netlify.app/api/products"
   );
   return {
     props: {

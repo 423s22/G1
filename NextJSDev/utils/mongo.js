@@ -8,7 +8,7 @@ async function dbConnect() {
   }
 
   const db = await mongoose.connect(
-    "mongodb+srv://phigeh:pass123@cluster0.kthn1.mongodb.net/medicalTransparency?retryWrites=true&w=majority",
+    "mongodb+srv://phigeh:Pass123!@cluster0.kthn1.mongodb.net/medicalTransparency?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
