@@ -1,5 +1,3 @@
-
-
 .component{
     width: 60%;
     padding:5%; 
@@ -7,6 +5,8 @@
     top: 0;
     background-color: white;
     position: sticky;
+    margin-top: 15%;
+    z-index: 1;
     margin-left: 20%;
 }
 

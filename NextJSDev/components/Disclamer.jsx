@@ -13,7 +13,8 @@ const Disclaimer = () => {
                 <div className={styles.component}>
                 <div>
                     <h1 className={styles.title} 
-                    style={{fontFamily: "BebasNeue",}}>
+                    style={{fontFamily: "BebasNeue",
+                    }}>
                         Hello!
                     </h1>
                 </div>

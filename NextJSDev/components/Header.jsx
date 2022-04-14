@@ -1,5 +1,8 @@
+import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
+import ServiceDropdown from "./ServiceDropdown";
 
 import {
   BellIcon,
@@ -21,6 +24,7 @@ import {
 import HeaderIcon from "./HeaderIcon";
 
 const Header = () => {
+  const [visibility, setVisibility] = useState(false);
   return (
     <div className="sticky top-0 z-100 bg-white flex items-center p-2 lg:px-5 shadow-md">
       <div className="flex items-center">
@@ -51,7 +55,11 @@ const Header = () => {
 
           <HeaderIcon Icon={ShieldCheckIcon} title="Insurance" />
           <HeaderIcon Icon={LocationMarkerIcon} title="Your Location" />
+
+          <button onClick={() => setVisibility(!visibility)}>
           <HeaderIcon Icon={ChevronDoubleDownIcon} title="Services" />
+          </button>
+
         </div>
       </div>
 
@@ -62,6 +70,9 @@ const Header = () => {
         <BellIcon className="icon" />
         <ChevronDownIcon className="icon" />
       </div>
+      {
+        visibility?<ServiceDropdown/>:null
+      }
     </div>
   );
 };
