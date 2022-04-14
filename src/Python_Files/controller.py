@@ -17,6 +17,7 @@ for files in documents:
     try:
         converter.output_to_csv(converter.scan_document(hospital, PATH, extension), hospital)
     except Exception as e:
+        directory.generate_directory("logs")
         print("Error scanning", hospital)
         print("Item aded to log")
         with open("./logs/error_log.txt", "a") as file:
