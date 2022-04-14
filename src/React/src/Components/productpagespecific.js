@@ -1,10 +1,12 @@
 import React from 'react';
+import Footer from "../Components/footer";
 import './productPageSpecificStyle.css'
+import Footer from './footer';
 
 
 function ProductPageSpecific(){
     return(
-        <div>
+        <div className='overallBackgroundColor'>
             <div className='specificProduct'>
                 <div>
                     <h1>X-RAY</h1>
@@ -61,6 +63,7 @@ function ProductPageSpecific(){
                 </div>
                 <hr style={{width:'90%'}}></hr>
             </div>
+            <Footer/>
         </div>
     )
 }

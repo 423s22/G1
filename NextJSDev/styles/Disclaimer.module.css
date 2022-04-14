@@ -1,0 +1,28 @@
+
+
+.component{
+    width: 60%;
+    padding:5%; 
+    border-radius: 10px;
+    top: 0;
+    background-color: white;
+    position: sticky;
+    margin-left: 20%;
+}
+
+.title{
+    color:#234473;
+    text-align: center;
+}
+
+.body{
+    text-align: left;
+}
+
+.btn{
+    border-radius: 10px;
+    background-color: #FB8500;
+    color: white;
+    text-align: center;
+    width: 20%;
+}

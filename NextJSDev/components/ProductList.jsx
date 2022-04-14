@@ -7,8 +7,7 @@ const ProductList = ({ productList }) => {
     <div className={styles.container}>
       <h1 className={styles.title}>Homepage</h1>
       <p className={styles.desc}>
-        This data is being injected into the front end by our Api. It is using
-        our Products Collection and data model to insert the data below.
+      WE WANT YOU TO SEE WHAT WE SEE.
       </p>
       <div className={styles.wrapper}>
         {productList.map((product) => (

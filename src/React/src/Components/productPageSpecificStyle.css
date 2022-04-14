@@ -1,6 +1,9 @@
+.overallBackgroundColor{
+    background-color: #E5D9CD;
+}
+
 .specificProduct{
     display: flex;
-    background-color:palegoldenrod;
     margin-left: 5%;
 
 }

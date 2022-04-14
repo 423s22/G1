@@ -1,6 +1,6 @@
 import React from 'react';
 import './productPageStyle.css'
-import ProductPageSpecific from '../Components/productpagespecific';
+import Footer from './footer';
 import {
     BrowserRouter,
     Routes,
@@ -11,7 +11,7 @@ import {
 
 function ProductPage(){
     return(
-        <div>
+        <div className='overallBackgroundColor'>
             <div className='productCat'>
                 <h1 className='name' style={{fontSize: '80px', textAlign: 'center'}}>RADIOLOGY</h1>
             </div>
@@ -112,6 +112,7 @@ function ProductPage(){
                     </p>
                 </div>
             </div>
+            <Footer/>
         </div>
     )
 }

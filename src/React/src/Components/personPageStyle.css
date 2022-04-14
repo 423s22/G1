@@ -1,6 +1,7 @@
 .overall-size{
     height: 500px;
     display: flex;
+    background-color: #E5D9CD;
 }
 
 .name{
@@ -11,7 +12,6 @@
 .person-page-pic{
     position: relative;
     width: 35%;
-    background-color: white;
     text-align: right;
 }
 
@@ -19,14 +19,12 @@
     width: 35%;
     margin: 25px;
     text-align: left;
-    background-color: white;
 }
 
 .person-page-contact{
     width: 30%;
     padding-left: 100px;
     text-align: left;
-    background-color: white;
     margin: auto;
     
 
@@ -39,7 +37,6 @@
     height: 0px;
     left: 890px;
     top: 350px;
-
-    border: 2px solid #000000;
+    border: 2px solid #FB8500;
     transform: rotate(90deg);
 }

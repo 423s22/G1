@@ -1,42 +1,68 @@
-.container {
-  width: 22%;
-  padding: 10px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 20px 40px;
-  cursor: pointer;
-}
-
-.title {
-  font-size: 18px;
-  font-weight: bold;
-  color: #d1411e;
-}
-
-.price {
-  font-size: 18px;
-  font-weight: bold;
-  color: #666;
-}
-
-.desc {
-  text-align: center;
-  color: #777;
-}
-
-@media screen and (max-width: 480px) {
-  .container {
+.HomePageContent
+{
     width: 100%;
-  }
+    background-color: #E5D9CD;
+}
 
-  .title {
-    font-size: 30px;
-  }
+.hpcSideColumn
+{
+    width: 389px;
+    height: 694px;
+    left: 23px;
+    top: 145px;
+    padding-left: 80px;
+}
 
-  .price,
-  .desc {
-    font-size: 24px;
-  }
+.hpMainMessage{
+    text-align: left;
+    font-size: 80px;
+    width: 220px;
+    height: 624px;
+    left: 45px;
+    top: 246px;
+    font-family: 'Bebas Neue';
+    color: #234473;
+}
+
+.hpcMainPic{
+    flex: right;
+    width: 1005px;
+    height: 1000px;
+
+}
+
+.break{
+    position: absolute;
+    width: 90%;
+    height: 0px;
+    border: 2px solid #FB8500;
+    margin-left: 5%;
+    margin-top: 1%;
+    
+}
+
+.ourStory{
+    padding: 80px;
+    font-family: 'Inter';
+    font-size: 36px;
+    font-style: normal;
+    text-align: left;
+
+}
+
+.ourStorySideQuote{
+    font-family: 'Bebas Neue';
+    width: 65%;
+    font-size: 75px;
+    font-weight: bolder;
+    align-items: center;
+    padding: 100px;
+    color:#234473;
+    margin-top: 100px;
+    
+}
+
+.ourStoryImage{
+    text-align: center;
+    display: flex;
 }
