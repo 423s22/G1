@@ -1,4 +1,5 @@
 .container {
+  background-color: #E5D9CD;
   padding: 20px 10px;
   display: flex;
   flex-direction: column;
@@ -17,6 +18,11 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.title {
+  color: #234473;
+  text-align: center;
 }
 
 @media screen and (max-width: 480px) {

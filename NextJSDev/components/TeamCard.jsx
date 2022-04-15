@@ -6,7 +6,7 @@ const TeamCard = ({ team }) => {
   return (
     <div class="p-4 rounded-lg border-2 border-gray-100 drop-shadow-md shadow-black-100">
       <div class="text-center mb-4 opacity-90">
-        <Link href={`/team/${team._id}`} passHref>
+        <Link href={"../TeamMember"} passHref>
           <img
             alt="profil"
             src={team.img}

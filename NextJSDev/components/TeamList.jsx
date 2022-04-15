@@ -4,8 +4,8 @@ import TeamCard from "./TeamCard";
 const TeamList = ({ teamList }) => {
   return (
     <div class="p-8 bg-white dark:bg-gray-800 rounded-lg shadow">
-      <p class="text-center mt-5 text-3xl font-bold text-gray-800 dark:text-white">
-        Professional Team
+      <p class="text-center mt-5 text-8xl font-bold text-blue dark:text-white font-BebasNeue">
+        Our Team
       </p>
       <p class="text-center mt-5 pb-5 text-xl font-normal text-gray-500 dark:text-gray-200">
         Meet the best team in world!
