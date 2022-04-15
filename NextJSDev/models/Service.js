@@ -1,22 +1,12 @@
 import mongoose from "mongoose";
 
 const ServiceSchema = new mongoose.Schema({
-  procedure: {
+  hospital: {
     type: String,
     required: true,
     maxlength: 60,
   },
-  code:{
-    type: String,
-    required: true,
-    maxlength: 30,
-  },
-  desc: {
-    type: String,
-    required: true,
-    maxlength: 500,
-  }
 });
 
-export default mongoose.models.Service ||
+export default mongoose.models.Sercice ||
   mongoose.model("Service", ServiceSchema);

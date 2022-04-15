@@ -3,16 +3,24 @@ import TeamCard from "./TeamCard";
 
 const TeamList = ({ teamList }) => {
   return (
-    <div className={styles.container}>
-      <h1 className={styles.title}>Our Team</h1>
-      <p className={styles.desc}>
-        This Data is coming from our MongoDB datatabase using the Team data
-        Model.
+    <div class="p-8 bg-white dark:bg-gray-800 rounded-lg shadow">
+      <p class="text-center mt-5 text-3xl font-bold text-gray-800 dark:text-white">
+        Professional Team
       </p>
-      <div className={styles.wrapper}>
-        {teamList.map((team) => (
-          <TeamCard key={team._id} team={team} />
-        ))}
+      <p class="text-center mt-5 pb-5 text-xl font-normal text-gray-500 dark:text-gray-200">
+        Meet the best team in world!
+      </p>
+
+      <div class="flex flex-shrink items-center flex-col md:flex-row justify evenly">
+        <div class="p-4">
+          <div class="text-center mb-4 opacity-90">
+            <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-10">
+              {teamList.map((team) => (
+                <TeamCard key={team._id} team={team} />
+              ))}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 import axios from "axios";
+
 import Image from "next/image";
-import Layout from "../components/Layout";
 import doctorimg1 from "../public/img/doctorimg1.png";
 import doctorimg2 from "../public/img/doctorimg2.png";
 import styles from "../styles/Home.module.css";
@@ -57,11 +57,9 @@ export default function Home({ productList }) {
   );
 }
 
+
 export const getServerSideProps = async () => {
-  const res = await axios.get(
-    "http://localhost:3000/api/products"
-    //"https://cranky-banach-68238c.netlify.app/api/products"
-  );
+  const res = await axios.get("http://localhost:3000/api/products");
   return {
     props: {
       productList: res.data,
